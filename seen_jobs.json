@@ -1,5 +1,9 @@
 {
   "JPMorgan Chase": {
+    "210743443": {
+      "title": "Director of Software Engineering - Data & Wealth Management",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210743443"
+    },
     "210759035": {
       "title": "Card Portfolio Risk Strategy Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210759035"
@@ -20,6 +24,10 @@
       "title": "India Broking Equity & Currency Derivatives Operations (Futures & Options) - Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772311"
     },
+    "210772766": {
+      "title": "Trade and Working Capital - Payments & Loans  Analyst - Night Shift",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772766"
+    },
     "210773696": {
       "title": "Lead Software Engineer- Automation testing",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773696"
@@ -32,9 +40,17 @@
       "title": "Lead Software Engineer -Full Stack Java/Spring/AWS",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774564"
     },
+    "210776755": {
+      "title": "Product Director - Debit Product",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776755"
+    },
     "210778603": {
       "title": "Liquidity Risk Lead - Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778603"
+    },
+    "210778613": {
+      "title": "Software Engineer II - Data Engineer - Java, Spark, Databricks",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778613"
     },
     "210778850": {
       "title": "Relationship Banker - Westridge Patrick and Hillcrest (New Build) - Frederick, Maryland",
@@ -80,6 +96,10 @@
       "title": "Sr Principal Software Engineer",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780704"
     },
+    "210780890": {
+      "title": "Senior Director of Software Engineering - Data Governance, Program Management, AWS",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780890"
+    },
     "210780899": {
       "title": "WKO Banking Middle Office - Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780899"
@@ -115,6 +135,10 @@
     "210781667": {
       "title": "Relationship Banker - Metro Southeast - Denver, CO",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781667"
+    },
+    "210781864": {
+      "title": "Payments Industry Solutions Manager - Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781864"
     },
     "210690639": {
       "title": "Software Engineer III- JPM Personal Investing- Mid Level",
@@ -9020,10 +9044,6 @@
       "title": "Lead Software Engineer [Multiple Positions Available]",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774384"
     },
-    "210774408": {
-      "title": "Part Time (30 Hours) Associate Banker, Southland Branch, Hayward, CA",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774408"
-    },
     "210774478": {
       "title": "Customer Success Director - Infrastructure Platform",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774478"
@@ -15979,26 +15999,6 @@
     "210742356": {
       "title": "Software Engineer III - React UI Developer",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742356"
-    },
-    "210744498": {
-      "title": "Financial Analysis Senior Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210744498"
-    },
-    "210747231": {
-      "title": "J.P. Morgan Wealth Management - Private Client Advisor - Central Sarasota",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747231"
-    },
-    "210755023": {
-      "title": "Wealth Management Investment Solutions, Fund Administration Team, Vice President",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210755023"
-    },
-    "210757007": {
-      "title": "Senior Home Lending Advisor - Tucson AZ",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210757007"
-    },
-    "210757589": {
-      "title": "Community Impact Operations Leader",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210757589"
     }
   },
   "PJT Partners": {
@@ -18612,6 +18612,10 @@
     }
   },
   "Amazon": {
+    "10504591": {
+      "title": "Senior Business Analyst, FinOps",
+      "url": "https://www.amazon.jobs/en/jobs/10504591/senior-business-analyst-finops"
+    },
     "10504458": {
       "title": "[2028\u5e74\u5165\u793e\u30fb\u6b63\u793e\u54e1] Financial Analyst",
       "url": "https://www.amazon.jobs/en/jobs/10504458/2028-financial-analyst"
@@ -20948,10 +20952,6 @@
       "title": "Oracle Applications Functional Analyst, FinTech Applications, Fintech OFA Entity Management",
       "url": "https://www.amazon.jobs/en/jobs/10435166/oracle-applications-functional-analyst-fintech-applications-fintech-ofa-entity-management"
     },
-    "10422063": {
-      "title": "Non-Inventory Receiver",
-      "url": "https://www.amazon.jobs/en/jobs/10422063/non-inventory-receiver"
-    },
     "10432513": {
       "title": "Senior Financial Analyst, Amazon Leo",
       "url": "https://www.amazon.jobs/en/jobs/10432513/senior-financial-analyst-amazon-leo"
@@ -22854,6 +22854,14 @@
     }
   },
   "Analog Devices": {
+    "/job/Philippines-Cavite-GTC/Associate-Engineer--Equipment-Engineering_R264821": {
+      "title": "Associate Engineer, Equipment Engineering",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-GTC/Associate-Engineer--Equipment-Engineering_R264821"
+    },
+    "/job/Philippines-Cavite-GTC/Associate-Coordinator--Document-Control_R264372": {
+      "title": "Associate Coordinator, Document Control",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-GTC/Associate-Coordinator--Document-Control_R264372"
+    },
     "/job/Philippines-Cavite-GTC/Technician-1--Product-Engineering--Mfg-_R265121": {
       "title": "Technician 1, Product Engineering (Mfg.)",
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-GTC/Technician-1--Product-Engineering--Mfg-_R265121"
@@ -27028,6 +27036,10 @@
     }
   },
   "ICF Incorporated": {
+    "/job/New-Delhi-India/Policy-Specialist-Fixed-Term-Role_R2602788": {
+      "title": "Policy Specialist-Fixed Term Role",
+      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/New-Delhi-India/Policy-Specialist-Fixed-Term-Role_R2602788"
+    },
     "/job/Nationwide-Remote-Office-US99/Intake-and-Case-Initiation-Supervisor_R2602768": {
       "title": "Intake and Case Initiation Supervisor",
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Nationwide-Remote-Office-US99/Intake-and-Case-Initiation-Supervisor_R2602768"
