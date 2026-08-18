@@ -44,6 +44,10 @@
       "title": "Relationship Banker - (New Build) Hilton Head - Hilton Head Island, SC",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778873"
     },
+    "210779102": {
+      "title": "Technology Support II (ServiceNow)",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779102"
+    },
     "210779221": {
       "title": "Analyst - Sourcing",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779221"
@@ -63,6 +67,10 @@
     "210780416": {
       "title": "Product Manager \u2013 Payments Sales Experience - Senior Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780416"
+    },
+    "210780425": {
+      "title": "Payment Lifecycle Specialist",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780425"
     },
     "210780478": {
       "title": "Client Operations Analyst",
@@ -5347,10 +5355,6 @@
     "210779407": {
       "title": "KDB Lead Software Engineer - Equities Prime Securities Lending Technology",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779407"
-    },
-    "210779409": {
-      "title": "Trade Lifecycle Specialist - Reconciliations",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779409"
     },
     "210779410": {
       "title": "Home Lending Product and Transformation Executive Assistant",
@@ -15995,10 +15999,6 @@
     "210757589": {
       "title": "Community Impact Operations Leader",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210757589"
-    },
-    "210758693": {
-      "title": "Lead Software Engineer - Java/AWS/Agentic",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758693"
     }
   },
   "PJT Partners": {
@@ -18613,7 +18613,7 @@
   },
   "Amazon": {
     "10504458": {
-      "title": "[2028\u5352\u5165\u793e\u30fb\u6b63\u793e\u54e1] Financial Analyst",
+      "title": "[2028\u5e74\u5165\u793e\u30fb\u6b63\u793e\u54e1] Financial Analyst",
       "url": "https://www.amazon.jobs/en/jobs/10504458/2028-financial-analyst"
     },
     "10503424": {
@@ -28759,6 +28759,10 @@
     "/job/Stockholm/Associate---Capital-Markets--Junior-Level-_JR101194": {
       "title": "Associate, Capital Markets (Junior Level)",
       "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/Stockholm/Associate---Capital-Markets--Junior-Level-_JR101194"
+    },
+    "/job/Tokyo/XMLNAME-2026-Legal-Intern---Tokyo_JR102966": {
+      "title": "2026 Legal Intern | Tokyo",
+      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/Tokyo/XMLNAME-2026-Legal-Intern---Tokyo_JR102966"
     },
     "/job/New-York/Associate-Director--Marketing---BD-Management-and-Strategy_JR102524": {
       "title": "Associate Director, Marketing & BD Management and Strategy",
