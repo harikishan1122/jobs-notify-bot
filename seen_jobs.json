@@ -18644,6 +18644,10 @@
       "title": "\u8f6f\u4ef6\u5f00\u53d1\u5de5\u7a0b\u5e08, \u4e0a\u6d77, (New graduate or Entry-level Engineer, 0-2 Years)",
       "url": "https://www.amazon.jobs/en/jobs/10510140/new-graduate-or-entry-level-engineer-0-2-years"
     },
+    "10510690": {
+      "title": "Senior Software Development Engineer, AWS Config",
+      "url": "https://www.amazon.jobs/en/jobs/10510690/senior-software-development-engineer-aws-config"
+    },
     "10510229": {
       "title": "Software Development Engineer, Integrated Vehicle Testing",
       "url": "https://www.amazon.jobs/en/jobs/10510229/software-development-engineer-integrated-vehicle-testing"
@@ -18811,6 +18815,10 @@
     "10507206": {
       "title": "Software Dev Engineer II, AWS Applied AI Solutions",
       "url": "https://www.amazon.jobs/en/jobs/10507206/software-dev-engineer-ii-aws-applied-ai-solutions"
+    },
+    "10510686": {
+      "title": "Software Development Engineer, Ordering",
+      "url": "https://www.amazon.jobs/en/jobs/10510686/software-development-engineer-ordering"
     },
     "10509680": {
       "title": "Software Engineer II, Prime Air",
@@ -24696,10 +24704,6 @@
       "title": "Software Development Engineer, AWS Fintech",
       "url": "https://www.amazon.jobs/en/jobs/10427495/software-development-engineer-aws-fintech"
     },
-    "10434535": {
-      "title": "Data Engineer II, Intelligence & Industrialization",
-      "url": "https://www.amazon.jobs/en/jobs/10434535/data-engineer-ii-intelligence-industrialization"
-    },
     "10439335": {
       "title": "Senior Software Engineer, NetOS Fleet Health",
       "url": "https://www.amazon.jobs/en/jobs/10439335/senior-software-engineer-netos-fleet-health"
@@ -25823,10 +25827,6 @@
     "10408625": {
       "title": "Senior Software Development Engineer, Sponsored Products and Brands",
       "url": "https://www.amazon.jobs/en/jobs/10408625/senior-software-development-engineer-sponsored-products-and-brands"
-    },
-    "10390344": {
-      "title": "Software Dev Engineer",
-      "url": "https://www.amazon.jobs/en/jobs/10390344/software-dev-engineer"
     },
     "10414336": {
       "title": "Software Development Engineer, AWS Connect-Markov",
@@ -44103,6 +44103,10 @@
   "CBRE": {},
   "Microsoft": {},
   "Salesforce": {
+    "/job/New-York---New-York/Deal-Desk-Manager_JR347729": {
+      "title": "Deal Desk Manager",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Deal-Desk-Manager_JR347729"
+    },
     "/job/California---San-Francisco/Hyperscaler-Partner-Sales-Sr-Manager_JR356597": {
       "title": "Hyperscaler Partner Sales Sr. Manager",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Hyperscaler-Partner-Sales-Sr-Manager_JR356597"
@@ -48651,10 +48655,6 @@
       "title": "Solutions Product Manager for Agentforce Operations",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Solutions-Product-Manager-for-Agentforce-Operations_JR350156"
     },
-    "/job/New-York---New-York/Deal-Desk-Manager_JR347729": {
-      "title": "Deal Desk Manager",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Deal-Desk-Manager_JR347729"
-    },
     "/job/Chile---Santiago/Customer-Success-Manager_JR349804": {
       "title": "Customer Success Manager",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Chile---Santiago/Customer-Success-Manager_JR349804"
@@ -51328,10 +51328,6 @@
     "/job/San-Francisco/Executive-Assistant-4_R171050-1": {
       "title": "Administrative Assistant 5",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Executive-Assistant-4_R171050-1"
-    },
-    "/job/San-Francisco/Group-Manager---Principal--Community-Insights_R170216": {
-      "title": "Principal Product Manager, Community Insights",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Group-Manager---Principal--Community-Insights_R170216"
     },
     "/job/San-Francisco/Administrative-Assistant-5_R171049": {
       "title": "Administrative Assistant 5",
