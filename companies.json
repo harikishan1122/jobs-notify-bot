@@ -1,75 +1,42 @@
 [
   {
-    "name": "JPMorgan Chase",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs"
+    "name": "Microsoft",
+    "url": "https://careers.microsoft.com/v2/global/en/search?query=software%20engineer"
   },
   {
-    "name": "PJT Partners",
-    "url": "https://pjtpartners.wd1.myworkdayjobs.com/Careers"
+    "name": "Salesforce",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site"
   },
   {
-    "name": "Flowserve",
-    "url": "https://careers.flowserve.com/sitemap.xml",
-    "type": "sitemap"
+    "name": "Adobe",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced"
   },
   {
-    "name": "SEL",
-    "url": "https://selinc.wd1.myworkdayjobs.com/en-US/SEL"
+    "name": "Nutanix",
+    "url": "https://careers.nutanix.com/en/jobs/"
   },
   {
     "name": "Amazon",
-    "url": "https://www.amazon.jobs/en/search?base_query=analyst"
+    "url": "https://www.amazon.jobs/en/search?base_query=software+engineer"
   },
   {
-    "name": "Waters Corporation",
-    "url": "https://internationalcareers-waters.icims.com/jobs/search?ss=1"
+    "name": "Google",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer"
   },
   {
-    "name": "CVS Health",
-    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers?q=analyst&timeType=1aea6da227e21005504339b6b1770001"
+    "name": "Meta",
+    "url": "https://www.metacareers.com/jobs?q=software%20engineer"
   },
   {
-    "name": "Analog Devices",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/External"
+    "name": "Apple",
+    "url": "https://jobs.apple.com/en-us/search?search=software%20engineer"
   },
   {
-    "name": "ICF Incorporated",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site"
+    "name": "IBM",
+    "url": "https://www.ibm.com/careers/search?field_keyword_18[0]=Software%20Development%20%26%20Support"
   },
   {
-    "name": "Mayer Brown LLP",
-    "url": "https://globalcareers-mayerbrown.icims.com/jobs/search?ss=1"
-  },
-  {
-    "name": "White & Case LLP",
-    "url": "https://wd1.myworkdaysite.com/recruiting/whitecase/External?locationCountry=bc33aa3152ec42d4995f4791a106ed09"
-  },
-  {
-    "name": "T. Rowe Price",
-    "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/jobs"
-  },
-  {
-    "name": "Aptean",
-    "url": "https://americas-aptean.icims.com/jobs/search?ss=1"
-  },
-  { 
-    "name": "Garver",
-    "url": "https://garverusa.com/careers/job-listings"
-  },
-  {
-    "name": "Mass General Brigham ",
-    "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/mgbexternal"
-  },
-  {
-  "name": "WebMD",
-  "url": "https://jobs.jobvite.com/webmd/search?q="
-  },
-  {
-  "name": "UBS",
-  "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=348105&jr_id=6a8359d6b5a0ac0e84a253bb#keyWordSearch=&locationSearch=United%20States"
-  },
-  { 
-   "name": "CBRE",
-   "url": "https://careers.cbre.com/en_US/careers/SearchJobs/?"
+    "name": "Oracle",
+    "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/jobs?keyword=software%20engineer"
   }
 ]
