@@ -38,5 +38,25 @@
   {
     "name": "Oracle",
     "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/jobs?keyword=software%20engineer"
+  },
+  {
+    "name": "Okta",
+    "url": "https://boards.greenhouse.io/okta"
+  },
+  {
+    "name": "Zscaler",
+    "url": "https://boards.greenhouse.io/zscaler"
+  },
+  {
+    "name": "Hubspot",
+    "url": "https://boards.greenhouse.io/hubspot"
+  },
+  {
+    "name": "Twilio",
+    "url": "https://boards.greenhouse.io/twilio"
+  },
+  {
+    "name": "Stripe",
+    "url": "https://boards.greenhouse.io/stripe"
   }
 ]
