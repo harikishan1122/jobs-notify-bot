@@ -1,0 +1,38 @@
+name: Discover Companies
+
+on:
+  workflow_dispatch:   # lets you trigger it manually from the Actions tab
+  schedule:
+    - cron: "0 6 * * 1"   # every Monday at 06:00 UTC (once a week)
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run discovery script
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+        run: python discover_companies.py
+
+      - name: Commit updated companies list
+        run: |
+          git config user.name "job-alert-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add companies.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-discover new companies"
+          git push
