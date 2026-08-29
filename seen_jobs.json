@@ -19196,6 +19196,10 @@
       "title": "Software Development Engineer, ASBX Builder Operations",
       "url": "https://www.amazon.jobs/en/jobs/10512704/software-development-engineer-asbx-builder-operations"
     },
+    "10521208": {
+      "title": "Senior Software Development Engineer, AWS SecDevOps",
+      "url": "https://www.amazon.jobs/en/jobs/10521208/senior-software-development-engineer-aws-secdevops"
+    },
     "10508294": {
       "title": "Software Development Engineer, Support Agent Intelligence and Evaluation",
       "url": "https://www.amazon.jobs/en/jobs/10508294/software-development-engineer-support-agent-intelligence-and-evaluation"
@@ -20939,6 +20943,10 @@
     "10490542": {
       "title": "Software Development Engineer II, CloudFront",
       "url": "https://www.amazon.jobs/en/jobs/10490542/software-development-engineer-ii-cloudfront"
+    },
+    "10490964": {
+      "title": "Software Development Engineer - Amazon MSK, Managed Streaming for Kafka",
+      "url": "https://www.amazon.jobs/en/jobs/10490964/software-development-engineer-amazon-msk-managed-streaming-for-kafka"
     },
     "10503677": {
       "title": "Software Development Engineer II, Amazon Robotics",
@@ -23172,6 +23180,10 @@
       "title": "Software Development Engineer II, GuardDuty Findings Management",
       "url": "https://www.amazon.jobs/en/jobs/10471825/software-development-engineer-ii-guardduty-findings-management"
     },
+    "10463551": {
+      "title": "Software Development Engineer, Amazon Connect Customer - Connectors & Mobile",
+      "url": "https://www.amazon.jobs/en/jobs/10463551/software-development-engineer-amazon-connect-customer-connectors-mobile"
+    },
     "10466683": {
       "title": "Software Development Engineer, ADC2S",
       "url": "https://www.amazon.jobs/en/jobs/10466683/software-development-engineer-adc2s"
@@ -24851,6 +24863,10 @@
     "10435771": {
       "title": "Software Development Engineer II, DynamoDB Fleet Services",
       "url": "https://www.amazon.jobs/en/jobs/10435771/software-development-engineer-ii-dynamodb-fleet-services"
+    },
+    "10425596": {
+      "title": "Software Development Engineer, AFFS, Amazon",
+      "url": "https://www.amazon.jobs/en/jobs/10425596/software-development-engineer-affs-amazon"
     },
     "10430502": {
       "title": "Senior SDE, OMHS SCS",
@@ -26615,22 +26631,6 @@
     "10372460": {
       "title": "Software Development Engineer, AWS Manufacturing Infrastructure Services",
       "url": "https://www.amazon.jobs/en/jobs/10372460/software-development-engineer-aws-manufacturing-infrastructure-services"
-    },
-    "3163024": {
-      "title": "Principal Software Engineer, Alexa AI (AURORA)",
-      "url": "https://www.amazon.jobs/en/jobs/3163024/principal-software-engineer-alexa-ai-aurora"
-    },
-    "3178389": {
-      "title": "Sr Software Development Engineer, Amazon Devices, Connectivity SW",
-      "url": "https://www.amazon.jobs/en/jobs/3178389/sr-software-development-engineer-amazon-devices-connectivity-sw"
-    },
-    "3162426": {
-      "title": "Senior Virtual Platform Software Engineer, Annapurna Labs Machine Learning Accelerators, AWS",
-      "url": "https://www.amazon.jobs/en/jobs/3162426/senior-virtual-platform-software-engineer-annapurna-labs-machine-learning-accelerators-aws"
-    },
-    "3155577": {
-      "title": "Software Developer Engineer II, IES LATECH & GIS",
-      "url": "https://www.amazon.jobs/en/jobs/3155577/software-developer-engineer-ii-ies-latech-gis"
     }
   },
   "Waters Corporation": {
@@ -44103,6 +44103,14 @@
   "CBRE": {},
   "Microsoft": {},
   "Salesforce": {
+    "/job/India---Hyderabad/Senior-Experience-Designer--UI-UX-_JR357395": {
+      "title": "Senior Experience Designer (UI/UX)",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Experience-Designer--UI-UX-_JR357395"
+    },
+    "/job/India---Hyderabad/Senior-Salesforce-Solution-Architect---Lifesciences_JR354108": {
+      "title": "Salesforce Solution Architect / Senior Solution Architect - Lifesciences",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Salesforce-Solution-Architect---Lifesciences_JR354108"
+    },
     "/job/California---San-Francisco/Director--Global-Incentive-Compensation---Revenue-Planning-Innovation_JR357079": {
       "title": "Director, Global Incentive Compensation & Revenue Planning Innovation",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Director--Global-Incentive-Compensation---Revenue-Planning-Innovation_JR357079"
@@ -44574,14 +44582,6 @@
     "/job/United-Kingdom---London/Named-Account-Executive---Media-AE-2_JR354209": {
       "title": "Named Account Executive - Media AE 2",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Named-Account-Executive---Media-AE-2_JR354209"
-    },
-    "/job/Canada---Toronto/Engagement-Delivery-Leader---Canadian-Public-Sector_JR355678": {
-      "title": "Engagement Delivery Leader - Canadian Public Sector",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Engagement-Delivery-Leader---Canadian-Public-Sector_JR355678"
-    },
-    "/job/California---Irvine/Engagement-Delivery-Leader---Public-Sector_JR355677": {
-      "title": "Engagement Delivery Leader - Public Sector",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Irvine/Engagement-Delivery-Leader---Public-Sector_JR355677"
     },
     "/job/India---Hyderabad/Program-Project-Management-Senior-Analyst-CIC_JR335927-1": {
       "title": "Program/Project Management Senior Analyst-CIC",
@@ -46839,10 +46839,6 @@
       "title": "Account Executive - Enterprise Germany - Media & Communication",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Germany---Munich/Account-Executive---Enterprise-Germany---Media---Communication_JR347358"
     },
-    "/job/India---Hyderabad/Senior-Salesforce-Solution-Architect---Lifesciences_JR354108": {
-      "title": "Senior Salesforce Solution Architect - Lifesciences",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Salesforce-Solution-Architect---Lifesciences_JR354108"
-    },
     "/job/India---Hyderabad/Success-Architect-Tableau_JR322298": {
       "title": "Success Architect-Tableau",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Success-Architect-Tableau_JR322298"
@@ -47238,10 +47234,6 @@
     "/job/Singapore---Singapore/Customer-Success-Manager--Malaysia_JR354628": {
       "title": "Customer Success Manager, Malaysia",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Singapore---Singapore/Customer-Success-Manager--Malaysia_JR354628"
-    },
-    "/job/India---Mumbai/Cloud-Account-Executive---Marketing-Cloud--SMB_JR353762-1": {
-      "title": "Cloud Account Executive - Marketing Cloud, SMB",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Mumbai/Cloud-Account-Executive---Marketing-Cloud--SMB_JR353762-1"
     },
     "/job/Japan---Tokyo/Payroll-Analyst_JR347028": {
       "title": "Payroll Analyst (Japanese skills required)",
@@ -50209,6 +50201,10 @@
     }
   },
   "Adobe": {
+    "/job/San-Jose/Director-and-Associate-General-Counsel--Corporate-Legal_R171220": {
+      "title": "Director and Associate General Counsel, Corporate Legal",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Director-and-Associate-General-Counsel--Corporate-Legal_R171220"
+    },
     "/job/San-Jose/Software-Development-Engineer--Influencer-Management_R166981": {
       "title": "Software Development Engineer, Influencer Management",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer--Influencer-Management_R166981"
@@ -50272,10 +50268,6 @@
     "/job/Dublin/Payroll-Analyst_R169637": {
       "title": "Payroll Analyst",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Dublin/Payroll-Analyst_R169637"
-    },
-    "/job/San-Jose/Director-and-Associate-General-Counsel--Corporate-Legal_R171220": {
-      "title": "Director and Associate General Counsel, Corporate Legal",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Director-and-Associate-General-Counsel--Corporate-Legal_R171220"
     },
     "/job/San-Jose/The-Experience-Developer_R168315": {
       "title": "Product Owner",
