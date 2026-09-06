@@ -31450,10 +31450,6 @@
       "title": "ECS Account Executive, Enterprise Sales - \u9280\u884c\u30c1\u30fc\u30e0",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/ECS-Account-Executive_JR346874-1"
     },
-    "/job/Israel---Tel-Aviv/PMTS-Backend-Software-Engineer_JR350298": {
-      "title": "Principal Backend Software Engineer",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Israel---Tel-Aviv/PMTS-Backend-Software-Engineer_JR350298"
-    },
     "/job/United-Kingdom---England---Remote/Named-Account-Executive---Local-Goverment_JR347049-1": {
       "title": "Named Account Executive - Local Goverment",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---England---Remote/Named-Account-Executive---Local-Goverment_JR347049-1"
@@ -33916,6 +33912,10 @@
     }
   },
   "Adobe": {
+    "/job/Seattle/Principal-Product-Manager---AI-for-Engineering_R171074": {
+      "title": "Principal Product Manager - AI for Engineering",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Principal-Product-Manager---AI-for-Engineering_R171074"
+    },
     "/job/San-Jose/Senior-Software-Engineer--Meta-Factory-Agent-Harness_R170223-1": {
       "title": "Senior Software Engineer, Meta Factory Agent Harness",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Software-Engineer--Meta-Factory-Agent-Harness_R170223-1"
@@ -34359,6 +34359,10 @@
     "/job/Bangalore/Staff-UX-Designer_R162152": {
       "title": "Staff Product Designer",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Staff-UX-Designer_R162152"
+    },
+    "/job/San-Francisco/Font-Licensing---Cost-Analyst_R171144": {
+      "title": "Font Licensing & Cost Analyst",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Font-Licensing---Cost-Analyst_R171144"
     },
     "/job/Remote-Ohio/Senior-Product-Manager_R170469-1": {
       "title": "Principal Product Manager",
@@ -37000,10 +37004,6 @@
       "title": "Developer Support Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/7770733?gh_jid=7770733"
     },
-    "8056209": {
-      "title": "DevOps Engineer, Professional Services R&D",
-      "url": "https://www.okta.com/company/careers/opportunity/8056209?gh_jid=8056209"
-    },
     "8098292": {
       "title": "Digital Media Specialist",
       "url": "https://www.okta.com/company/careers/opportunity/8098292?gh_jid=8098292"
@@ -37060,13 +37060,13 @@
       "title": "Enterprise Account Executive - Auth0",
       "url": "https://www.okta.com/company/careers/opportunity/8059294?gh_jid=8059294"
     },
-    "7904978": {
-      "title": "Enterprise Account Executive, Auth0",
-      "url": "https://www.okta.com/company/careers/opportunity/7904978?gh_jid=7904978"
-    },
     "8007650": {
       "title": "Enterprise Account Executive, Auth0",
       "url": "https://www.okta.com/company/careers/opportunity/8007650?gh_jid=8007650"
+    },
+    "7904978": {
+      "title": "Enterprise Account Executive, Auth0",
+      "url": "https://www.okta.com/company/careers/opportunity/7904978?gh_jid=7904978"
     },
     "7555117": {
       "title": "Enterprise Account Executive, Brazil ",
@@ -37212,13 +37212,13 @@
       "title": "People Technology Delivery Lead",
       "url": "https://www.okta.com/company/careers/opportunity/8074824?gh_jid=8074824"
     },
-    "8031355": {
-      "title": "Principal Applied AI/ML Scientist (Auth0 Lab)",
-      "url": "https://www.okta.com/company/careers/opportunity/8031355?gh_jid=8031355"
-    },
     "8031281": {
       "title": "Principal Applied AI/ML Scientist (Auth0 Lab)",
       "url": "https://www.okta.com/company/careers/opportunity/8031281?gh_jid=8031281"
+    },
+    "8031355": {
+      "title": "Principal Applied AI/ML Scientist (Auth0 Lab)",
+      "url": "https://www.okta.com/company/careers/opportunity/8031355?gh_jid=8031355"
     },
     "8056218": {
       "title": "Principal Architect, Professional Services R&D",
@@ -37264,13 +37264,13 @@
       "title": "Principal Site Reliability Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/8002576?gh_jid=8002576"
     },
-    "8064188": {
-      "title": "Principal Software Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/8064188?gh_jid=8064188"
-    },
     "7781674": {
       "title": "Principal Software Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/7781674?gh_jid=7781674"
+    },
+    "8064188": {
+      "title": "Principal Software Engineer",
+      "url": "https://www.okta.com/company/careers/opportunity/8064188?gh_jid=8064188"
     },
     "7696955": {
       "title": "Principal Software Engineer",
@@ -37340,13 +37340,13 @@
       "title": "Sales Compensation Analyst",
       "url": "https://www.okta.com/company/careers/opportunity/8110755?gh_jid=8110755"
     },
-    "8102281": {
-      "title": "Sales Development Representative",
-      "url": "https://www.okta.com/company/careers/opportunity/8102281?gh_jid=8102281"
-    },
     "7936541": {
       "title": "Sales Development Representative",
       "url": "https://www.okta.com/company/careers/opportunity/7936541?gh_jid=7936541"
+    },
+    "8102281": {
+      "title": "Sales Development Representative",
+      "url": "https://www.okta.com/company/careers/opportunity/8102281?gh_jid=8102281"
     },
     "7013711": {
       "title": "Sales Development Representative, Bellevue",
@@ -37356,13 +37356,13 @@
       "title": "Sales Development Representative, East",
       "url": "https://www.okta.com/company/careers/opportunity/7013646?gh_jid=7013646"
     },
-    "7645881": {
-      "title": "Sales Development Representative - German",
-      "url": "https://www.okta.com/company/careers/opportunity/7645881?gh_jid=7645881"
-    },
     "7920579": {
       "title": "Sales Development Representative - German",
       "url": "https://www.okta.com/company/careers/opportunity/7920579?gh_jid=7920579"
+    },
+    "7645881": {
+      "title": "Sales Development Representative - German",
+      "url": "https://www.okta.com/company/careers/opportunity/7645881?gh_jid=7645881"
     },
     "7013721": {
       "title": "Sales Development Representative, Toronto",
@@ -37560,17 +37560,17 @@
       "title": "Senior Software Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/8039085?gh_jid=8039085"
     },
-    "7599312": {
+    "7783585": {
       "title": "Senior Software Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/7599312?gh_jid=7599312"
+      "url": "https://www.okta.com/company/careers/opportunity/7783585?gh_jid=7783585"
     },
     "8053679": {
       "title": "Senior Software Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/8053679?gh_jid=8053679"
     },
-    "7783585": {
+    "7599312": {
       "title": "Senior Software Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/7783585?gh_jid=7783585"
+      "url": "https://www.okta.com/company/careers/opportunity/7599312?gh_jid=7599312"
     },
     "5781654": {
       "title": "Senior Software Engineer ",
@@ -37788,13 +37788,13 @@
       "title": "Staff Engineer - Fullstack",
       "url": "https://www.okta.com/company/careers/opportunity/7593555?gh_jid=7593555"
     },
-    "8078400": {
-      "title": "Staff Fullstack Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/8078400?gh_jid=8078400"
-    },
     "7929542": {
       "title": "Staff Fullstack Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/7929542?gh_jid=7929542"
+    },
+    "8078400": {
+      "title": "Staff Fullstack Engineer",
+      "url": "https://www.okta.com/company/careers/opportunity/8078400?gh_jid=8078400"
     },
     "7471202": {
       "title": "Staff Full-Stack Engineer ",
@@ -37868,17 +37868,17 @@
       "title": "Staff Security Engineer, TDI",
       "url": "https://www.okta.com/company/careers/opportunity/8015013?gh_jid=8015013"
     },
-    "7840544": {
+    "8059472": {
       "title": "Staff Site Reliability Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/7840544?gh_jid=7840544"
+      "url": "https://www.okta.com/company/careers/opportunity/8059472?gh_jid=8059472"
     },
     "8087718": {
       "title": "Staff Site Reliability Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/8087718?gh_jid=8087718"
     },
-    "8059472": {
+    "7840544": {
       "title": "Staff Site Reliability Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/8059472?gh_jid=8059472"
+      "url": "https://www.okta.com/company/careers/opportunity/7840544?gh_jid=7840544"
     },
     "8090568": {
       "title": "Staff Site Reliability Engineer - Ecosystem",
@@ -37912,17 +37912,17 @@
       "title": "Staff Software Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/8034884?gh_jid=8034884"
     },
-    "8018310": {
+    "8081016": {
       "title": "Staff Software Engineer ",
-      "url": "https://www.okta.com/company/careers/opportunity/8018310?gh_jid=8018310"
+      "url": "https://www.okta.com/company/careers/opportunity/8081016?gh_jid=8081016"
     },
     "7626022": {
       "title": "Staff Software Engineer ",
       "url": "https://www.okta.com/company/careers/opportunity/7626022?gh_jid=7626022"
     },
-    "8081016": {
+    "8018310": {
       "title": "Staff Software Engineer ",
-      "url": "https://www.okta.com/company/careers/opportunity/8081016?gh_jid=8081016"
+      "url": "https://www.okta.com/company/careers/opportunity/8018310?gh_jid=8018310"
     },
     "7893046": {
       "title": "Staff Software Engineer ",
@@ -37980,13 +37980,13 @@
       "title": "Staff Software Engineer - Federal",
       "url": "https://www.okta.com/company/careers/opportunity/7571064?gh_jid=7571064"
     },
-    "8147071": {
-      "title": "Staff Software Engineer, Identity Administration",
-      "url": "https://www.okta.com/company/careers/opportunity/8147071?gh_jid=8147071"
-    },
     "8147222": {
       "title": "Staff Software Engineer, Identity Administration",
       "url": "https://www.okta.com/company/careers/opportunity/8147222?gh_jid=8147222"
+    },
+    "8147071": {
+      "title": "Staff Software Engineer, Identity Administration",
+      "url": "https://www.okta.com/company/careers/opportunity/8147071?gh_jid=8147071"
     },
     "7831189": {
       "title": "Staff Software Engineer, Identity Administration (Full Stack)",
@@ -38056,13 +38056,13 @@
       "title": "Staff SRE for K8s Platform Team (AWS, Kubernetes, Platform Creation, Helm, Karpenter, Istio)",
       "url": "https://www.okta.com/company/careers/opportunity/8102369?gh_jid=8102369"
     },
-    "8073062": {
-      "title": "Staff TDI Site Reliability Engineer, Okta Federal",
-      "url": "https://www.okta.com/company/careers/opportunity/8073062?gh_jid=8073062"
-    },
     "8073066": {
       "title": "Staff TDI Site Reliability Engineer, Okta Federal",
       "url": "https://www.okta.com/company/careers/opportunity/8073066?gh_jid=8073066"
+    },
+    "8073062": {
+      "title": "Staff TDI Site Reliability Engineer, Okta Federal",
+      "url": "https://www.okta.com/company/careers/opportunity/8073062?gh_jid=8073062"
     },
     "8039090": {
       "title": "Staff Technical Writer",
