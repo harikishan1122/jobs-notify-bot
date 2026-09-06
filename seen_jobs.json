@@ -3559,6 +3559,10 @@
       "title": "Embedded Software Engineer - Nitro , Annapurna Labs",
       "url": "https://www.amazon.jobs/en/jobs/10521736/embedded-software-engineer-nitro-annapurna-labs"
     },
+    "10530741": {
+      "title": "Software Development Engineer, Shopping Personalization AI, Amazon Stores",
+      "url": "https://www.amazon.jobs/en/jobs/10530741/software-development-engineer-shopping-personalization-ai-amazon-stores"
+    },
     "10525188": {
       "title": "Senior Delivery Consultant: Agentic Software Engineer, AWS Professional Services",
       "url": "https://www.amazon.jobs/en/jobs/10525188/senior-delivery-consultant-agentic-software-engineer-aws-professional-services"
@@ -3678,6 +3682,14 @@
     "10508484": {
       "title": "Sr. Software Development Engineer, Advanced Analytics",
       "url": "https://www.amazon.jobs/en/jobs/10508484/sr-software-development-engineer-advanced-analytics"
+    },
+    "10530753": {
+      "title": "Software Development Engineer",
+      "url": "https://www.amazon.jobs/en/jobs/10530753/software-development-engineer"
+    },
+    "10530754": {
+      "title": "Software Development Engineer",
+      "url": "https://www.amazon.jobs/en/jobs/10530754/software-development-engineer"
     },
     "10513180": {
       "title": "Software Development Engineer, Ordering",
@@ -5979,10 +5991,6 @@
       "title": "Software Dev Engineer II, Amazon Now (Tez)",
       "url": "https://www.amazon.jobs/en/jobs/10489898/software-dev-engineer-ii-amazon-now-tez"
     },
-    "10486910": {
-      "title": "Software Development Engineer, AFFS",
-      "url": "https://www.amazon.jobs/en/jobs/10486910/software-development-engineer-affs"
-    },
     "10485442": {
       "title": "Delivery Consultant: Agentic AI FullStack SDE, AWS Professional Services",
       "url": "https://www.amazon.jobs/en/jobs/10485442/delivery-consultant-agentic-ai-fullstack-sde-aws-professional-services"
@@ -6818,10 +6826,6 @@
     "10473921": {
       "title": "Software Dev Engineer, EC2 ML Provisioning",
       "url": "https://www.amazon.jobs/en/jobs/10473921/software-dev-engineer-ec2-ml-provisioning"
-    },
-    "10473227": {
-      "title": "Sr Software Development Engineer, AWS Aurora Database",
-      "url": "https://www.amazon.jobs/en/jobs/10473227/sr-software-development-engineer-aws-aurora-database"
     },
     "10473938": {
       "title": "Sr. Software Development Engineer, Partner Experience, Prime Video",
@@ -8263,10 +8267,6 @@
       "title": "Software Dev Eng II- AMZ002817",
       "url": "https://www.amazon.jobs/en/jobs/10445970/software-dev-eng-ii-amz002817"
     },
-    "10474686": {
-      "title": "Sr. Software Dev Engineer, Verification Services",
-      "url": "https://www.amazon.jobs/en/jobs/10474686/sr-software-dev-engineer-verification-services"
-    },
     "10485234": {
       "title": "Software Development Engineer, AWS Quick Desktop",
       "url": "https://www.amazon.jobs/en/jobs/10485234/software-development-engineer-aws-quick-desktop"
@@ -8414,10 +8414,6 @@
     "10443057": {
       "title": "Senior Software Development Engineer (Payload SW), STAR (System Test Automation and Regression)",
       "url": "https://www.amazon.jobs/en/jobs/10443057/senior-software-development-engineer-payload-sw-star-system-test-automation-and-regression"
-    },
-    "10482093": {
-      "title": "Software Development Engineer, Amazon Devices, DS2 (Device Software & Services)",
-      "url": "https://www.amazon.jobs/en/jobs/10482093/software-development-engineer-amazon-devices-ds2-device-software-services"
     },
     "10458965": {
       "title": "Software Development Engineer II, AWS IAM Identity Center",
@@ -9022,10 +9018,6 @@
     "10430264": {
       "title": "Software Dev Engineer, EC2 Nitro, EC2 Nitro",
       "url": "https://www.amazon.jobs/en/jobs/10430264/software-dev-engineer-ec2-nitro-ec2-nitro"
-    },
-    "10435272": {
-      "title": "Software Development Engineer, Inventory Authority Platform (IAP) ",
-      "url": "https://www.amazon.jobs/en/jobs/10435272/software-development-engineer-inventory-authority-platform-iap"
     },
     "10435271": {
       "title": "Software Development Engineer II, Inventory Authority Platform (IAP) ",
@@ -9634,6 +9626,10 @@
     "10405484": {
       "title": "Software Dev Engineer, LATECH (Latin America/APAC)",
       "url": "https://www.amazon.jobs/en/jobs/10405484/software-dev-engineer-latech-latin-america-apac"
+    },
+    "10471492": {
+      "title": "Software Development Engineer II, PartyRock",
+      "url": "https://www.amazon.jobs/en/jobs/10471492/software-development-engineer-ii-partyrock"
     },
     "10411168": {
       "title": "Software Development Engineer, Ring",
@@ -10630,6 +10626,10 @@
     "3187422": {
       "title": "Software Development Engineer, Network Product Development",
       "url": "https://www.amazon.jobs/en/jobs/3187422/software-development-engineer-network-product-development"
+    },
+    "3187273": {
+      "title": "Principal Software Engineer, Amazon DynamoDB",
+      "url": "https://www.amazon.jobs/en/jobs/3187273/principal-software-engineer-amazon-dynamodb"
     }
   },
   "Waters Corporation": {
@@ -40255,13 +40255,13 @@
       "title": "Account Executive, Enterprise Platforms (Grower)",
       "url": "https://stripe.com/jobs/search?gh_jid=7576967"
     },
-    "7961609": {
-      "title": "Account Executive, Enterprise Platforms, Hunter",
-      "url": "https://stripe.com/jobs/search?gh_jid=7961609"
-    },
     "8077971": {
       "title": "Account Executive, Enterprise Platforms, Hunter",
       "url": "https://stripe.com/jobs/search?gh_jid=8077971"
+    },
+    "7961609": {
+      "title": "Account Executive, Enterprise Platforms, Hunter",
+      "url": "https://stripe.com/jobs/search?gh_jid=7961609"
     },
     "8138042": {
       "title": "Account Executive, Enterprise Platforms, Tier 2 Grower",
@@ -40395,13 +40395,13 @@
       "title": "Account Executive, SMB (Benelux)",
       "url": "https://stripe.com/jobs/search?gh_jid=8114157"
     },
-    "8128772": {
-      "title": "Account Executive, SMB (Grower)",
-      "url": "https://stripe.com/jobs/search?gh_jid=8128772"
-    },
     "8156996": {
       "title": "Account Executive, SMB (Grower)",
       "url": "https://stripe.com/jobs/search?gh_jid=8156996"
+    },
+    "8128772": {
+      "title": "Account Executive, SMB (Grower)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8128772"
     },
     "7277406": {
       "title": "Account Executive, SMB (Hunter)",
@@ -40491,13 +40491,13 @@
       "title": "AV Events Manager",
       "url": "https://stripe.com/jobs/search?gh_jid=8078126"
     },
-    "6176758": {
-      "title": "Backend/API Engineer, Money as a Service",
-      "url": "https://stripe.com/jobs/search?gh_jid=6176758"
-    },
     "7369543": {
       "title": "Backend/API Engineer, Money as a Service",
       "url": "https://stripe.com/jobs/search?gh_jid=7369543"
+    },
+    "6176758": {
+      "title": "Backend/API Engineer, Money as a Service",
+      "url": "https://stripe.com/jobs/search?gh_jid=6176758"
     },
     "4921361": {
       "title": "Backend Engineer/API, Payments and Risk",
@@ -40507,25 +40507,25 @@
       "title": "Backend Engineer, Billing/Tax",
       "url": "https://stripe.com/jobs/search?gh_jid=7217048"
     },
-    "6686634": {
-      "title": "Backend Engineer, Core Technology",
-      "url": "https://stripe.com/jobs/search?gh_jid=6686634"
-    },
     "6042172": {
       "title": "Backend Engineer, Core Technology",
       "url": "https://stripe.com/jobs/search?gh_jid=6042172"
+    },
+    "6686634": {
+      "title": "Backend Engineer, Core Technology",
+      "url": "https://stripe.com/jobs/search?gh_jid=6686634"
     },
     "7913700": {
       "title": "Backend Engineer, Data",
       "url": "https://stripe.com/jobs/search?gh_jid=7913700"
     },
-    "7476555": {
-      "title": "Backend Engineer, Developer & End-user Experience Platform",
-      "url": "https://stripe.com/jobs/search?gh_jid=7476555"
-    },
     "7557899": {
       "title": "Backend Engineer, Developer & End-user Experience Platform",
       "url": "https://stripe.com/jobs/search?gh_jid=7557899"
+    },
+    "7476555": {
+      "title": "Backend Engineer, Developer & End-user Experience Platform",
+      "url": "https://stripe.com/jobs/search?gh_jid=7476555"
     },
     "8131144": {
       "title": "Backend Engineer, Link",
@@ -40603,13 +40603,13 @@
       "title": "Comms, Public Goods",
       "url": "https://stripe.com/jobs/search?gh_jid=8114272"
     },
-    "8103952": {
-      "title": "Communities Partner Development Manager, SaaS Platforms",
-      "url": "https://stripe.com/jobs/search?gh_jid=8103952"
-    },
     "8138000": {
       "title": "Communities Partner Development Manager, SaaS Platforms",
       "url": "https://stripe.com/jobs/search?gh_jid=8138000"
+    },
+    "8103952": {
+      "title": "Communities Partner Development Manager, SaaS Platforms",
+      "url": "https://stripe.com/jobs/search?gh_jid=8103952"
     },
     "8070054": {
       "title": "Company Strategy & Operations",
@@ -40967,13 +40967,13 @@
       "title": "Food Experience Manager ",
       "url": "https://stripe.com/jobs/search?gh_jid=8083966"
     },
-    "8055930": {
-      "title": "Forward Deployed AI Accelerator, Marketing",
-      "url": "https://stripe.com/jobs/search?gh_jid=8055930"
-    },
     "7747640": {
       "title": "Forward Deployed AI Accelerator, Marketing",
       "url": "https://stripe.com/jobs/search?gh_jid=7747640"
+    },
+    "8055930": {
+      "title": "Forward Deployed AI Accelerator, Marketing",
+      "url": "https://stripe.com/jobs/search?gh_jid=8055930"
     },
     "7230452": {
       "title": "Forward Deployed Engineer, Privy",
@@ -40986,6 +40986,10 @@
     "8075577": {
       "title": "Forward Deployed Engineer, Professional Services",
       "url": "https://stripe.com/jobs/search?gh_jid=8075577"
+    },
+    "8181003": {
+      "title": "Forward Deployed Security Engineer",
+      "url": "https://stripe.com/jobs/search?gh_jid=8181003"
     },
     "8076652": {
       "title": "Fraud Operations Associate (Mandarin Speaking)",
@@ -41003,13 +41007,13 @@
       "title": "Fraud Operations Manager (Mandarin-speaking)",
       "url": "https://stripe.com/jobs/search?gh_jid=7994541"
     },
-    "8063857": {
-      "title": "Fraud Operations Team Lead",
-      "url": "https://stripe.com/jobs/search?gh_jid=8063857"
-    },
     "7685460": {
       "title": "Fraud Operations Team Lead",
       "url": "https://stripe.com/jobs/search?gh_jid=7685460"
+    },
+    "8063857": {
+      "title": "Fraud Operations Team Lead",
+      "url": "https://stripe.com/jobs/search?gh_jid=8063857"
     },
     "7913410": {
       "title": "Fraud Patterns Analyst",
@@ -41187,13 +41191,13 @@
       "title": " Hong Kong Regulatory Compliance & Money Laundering Reporting Officer",
       "url": "https://stripe.com/jobs/search?gh_jid=7976163"
     },
-    "7393071": {
-      "title": "Implementation Specialist, GTM Accelerate",
-      "url": "https://stripe.com/jobs/search?gh_jid=7393071"
-    },
     "7520686": {
       "title": "Implementation Specialist, GTM Accelerate",
       "url": "https://stripe.com/jobs/search?gh_jid=7520686"
+    },
+    "7393071": {
+      "title": "Implementation Specialist, GTM Accelerate",
+      "url": "https://stripe.com/jobs/search?gh_jid=7393071"
     },
     "7589400": {
       "title": "Indirect Tax Advisory Consultant",
@@ -41283,13 +41287,13 @@
       "title": "Lifecycle Marketing Manager, Capital",
       "url": "https://stripe.com/jobs/search?gh_jid=8082149"
     },
-    "8137997": {
-      "title": "Machine Learning Engineer",
-      "url": "https://stripe.com/jobs/search?gh_jid=8137997"
-    },
     "8014859": {
       "title": "Machine Learning Engineer",
       "url": "https://stripe.com/jobs/search?gh_jid=8014859"
+    },
+    "8137997": {
+      "title": "Machine Learning Engineer",
+      "url": "https://stripe.com/jobs/search?gh_jid=8137997"
     },
     "8069155": {
       "title": "Manager, Administrative Coordinator Program",
@@ -41319,13 +41323,13 @@
       "title": "Manager, Risk Operations Technology Programs",
       "url": "https://stripe.com/jobs/search?gh_jid=8138302"
     },
-    "7896538": {
-      "title": "Manager, Sales Development",
-      "url": "https://stripe.com/jobs/search?gh_jid=7896538"
-    },
     "7337544": {
       "title": "Manager, Sales Development",
       "url": "https://stripe.com/jobs/search?gh_jid=7337544"
+    },
+    "7896538": {
+      "title": "Manager, Sales Development",
+      "url": "https://stripe.com/jobs/search?gh_jid=7896538"
     },
     "8104302": {
       "title": "Manager, Solution Architecture Platforms",
@@ -41335,21 +41339,21 @@
       "title": "Manager, Solutions Architecture- Enterprise Hunter",
       "url": "https://stripe.com/jobs/search?gh_jid=8163542"
     },
-    "7664667": {
-      "title": "Manager, Technical Account Management",
-      "url": "https://stripe.com/jobs/search?gh_jid=7664667"
-    },
-    "8152136": {
-      "title": "Manager, Technical Account Management",
-      "url": "https://stripe.com/jobs/search?gh_jid=8152136"
-    },
     "8154304": {
       "title": "Manager, Technical Account Management",
       "url": "https://stripe.com/jobs/search?gh_jid=8154304"
     },
+    "7664667": {
+      "title": "Manager, Technical Account Management",
+      "url": "https://stripe.com/jobs/search?gh_jid=7664667"
+    },
     "7767222": {
       "title": "Manager, Technical Account Management",
       "url": "https://stripe.com/jobs/search?gh_jid=7767222"
+    },
+    "8152136": {
+      "title": "Manager, Technical Account Management",
+      "url": "https://stripe.com/jobs/search?gh_jid=8152136"
     },
     "7805386": {
       "title": "Marketing Operations Manager",
@@ -41463,13 +41467,13 @@
       "title": "Partner Development Manager- SaaS Platforms",
       "url": "https://stripe.com/jobs/search?gh_jid=8043055"
     },
-    "8094869": {
-      "title": "Partner Development Manager, Strategic Partnerships",
-      "url": "https://stripe.com/jobs/search?gh_jid=8094869"
-    },
     "7973002": {
       "title": "Partner Development Manager, Strategic Partnerships",
       "url": "https://stripe.com/jobs/search?gh_jid=7973002"
+    },
+    "8094869": {
+      "title": "Partner Development Manager, Strategic Partnerships",
+      "url": "https://stripe.com/jobs/search?gh_jid=8094869"
     },
     "8155164": {
       "title": "Partner Development Manager, Strategic Payment Partnerships",
@@ -42039,13 +42043,13 @@
       "title": "Social Media, Customer Support Associate (Includes Weekend Rotations)",
       "url": "https://stripe.com/jobs/search?gh_jid=7867328"
     },
-    "8137972": {
-      "title": "Software Engineer",
-      "url": "https://stripe.com/jobs/search?gh_jid=8137972"
-    },
     "8174105": {
       "title": "Software Engineer",
       "url": "https://stripe.com/jobs/search?gh_jid=8174105"
+    },
+    "8137972": {
+      "title": "Software Engineer",
+      "url": "https://stripe.com/jobs/search?gh_jid=8137972"
     },
     "8069941": {
       "title": "Software Engineer, Authorization Infrastructure",
@@ -42091,13 +42095,13 @@
       "title": "Software Engineer, Intern (Summer or Winter)",
       "url": "https://stripe.com/jobs/search?gh_jid=8097801"
     },
-    "8128745": {
-      "title": "Software Engineer, Intern (Summer or Winter)",
-      "url": "https://stripe.com/jobs/search?gh_jid=8128745"
-    },
     "8130805": {
       "title": "Software Engineer, Intern (Summer or Winter)",
       "url": "https://stripe.com/jobs/search?gh_jid=8130805"
+    },
+    "8128745": {
+      "title": "Software Engineer, Intern (Summer or Winter)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8128745"
     },
     "8084476": {
       "title": "Software Engineer, Machine Learning Infrastructure",
@@ -42111,29 +42115,29 @@
       "title": "Software Engineer, Money Movement ",
       "url": "https://stripe.com/jobs/search?gh_jid=7208537"
     },
+    "8130930": {
+      "title": "Software Engineer, New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130930"
+    },
     "8130922": {
       "title": "Software Engineer, New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=8130922"
     },
-    "8157838": {
+    "8130881": {
       "title": "Software Engineer, New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=8157838"
+      "url": "https://stripe.com/jobs/search?gh_jid=8130881"
     },
     "8128744": {
       "title": "Software Engineer, New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=8128744"
     },
-    "8130930": {
-      "title": "Software Engineer, New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130930"
-    },
     "8160776": {
       "title": "Software Engineer, New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=8160776"
     },
-    "8130881": {
+    "8157838": {
       "title": "Software Engineer, New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130881"
+      "url": "https://stripe.com/jobs/search?gh_jid=8157838"
     },
     "8130927": {
       "title": "Software Engineer, New Grad - Frontend",
@@ -42395,13 +42399,13 @@
       "title": "Staff Software Engineer, Link",
       "url": "https://stripe.com/jobs/search?gh_jid=8082847"
     },
-    "7939868": {
-      "title": "Staff Software Engineer, Machine Learning Platform",
-      "url": "https://stripe.com/jobs/search?gh_jid=7939868"
-    },
     "7712852": {
       "title": "Staff Software Engineer, Machine Learning Platform",
       "url": "https://stripe.com/jobs/search?gh_jid=7712852"
+    },
+    "7939868": {
+      "title": "Staff Software Engineer, Machine Learning Platform",
+      "url": "https://stripe.com/jobs/search?gh_jid=7939868"
     },
     "7986004": {
       "title": "Staff Software Engineer, Payments Intelligence",
@@ -42479,13 +42483,13 @@
       "title": "Support Operations, Privy",
       "url": "https://stripe.com/jobs/search?gh_jid=8162819"
     },
-    "8044158": {
-      "title": "Technical Account Manager",
-      "url": "https://stripe.com/jobs/search?gh_jid=8044158"
-    },
     "8023524": {
       "title": "Technical Account Manager",
       "url": "https://stripe.com/jobs/search?gh_jid=8023524"
+    },
+    "8044158": {
+      "title": "Technical Account Manager",
+      "url": "https://stripe.com/jobs/search?gh_jid=8044158"
     },
     "7918088": {
       "title": "Technical Account Manager, AI User Segment",
@@ -42543,13 +42547,13 @@
       "title": "Technical Program Manager, Risk",
       "url": "https://stripe.com/jobs/search?gh_jid=7678655"
     },
-    "8154525": {
-      "title": "Technical Recruiter (Fixed Term Contract)",
-      "url": "https://stripe.com/jobs/search?gh_jid=8154525"
-    },
     "8142856": {
       "title": "Technical Recruiter (Fixed Term Contract)",
       "url": "https://stripe.com/jobs/search?gh_jid=8142856"
+    },
+    "8154525": {
+      "title": "Technical Recruiter (Fixed Term Contract)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8154525"
     },
     "7377101": {
       "title": "Technical Solutions Engineer",
@@ -42563,13 +42567,13 @@
       "title": "Technical Support Engineer (EMEA)",
       "url": "https://stripe.com/jobs/search?gh_jid=7737248"
     },
-    "7860377": {
-      "title": "Technical Support Engineer, Metronome",
-      "url": "https://stripe.com/jobs/search?gh_jid=7860377"
-    },
     "7733725": {
       "title": "Technical Support Engineer, Metronome",
       "url": "https://stripe.com/jobs/search?gh_jid=7733725"
+    },
+    "7860377": {
+      "title": "Technical Support Engineer, Metronome",
+      "url": "https://stripe.com/jobs/search?gh_jid=7860377"
     },
     "7718947": {
       "title": "Tech Operations Associate, New Grad (Mexico)",
