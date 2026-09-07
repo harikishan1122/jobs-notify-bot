@@ -2631,6 +2631,10 @@
     }
   },
   "Amazon": {
+    "10531259": {
+      "title": "Application Builder, Ring Application services ",
+      "url": "https://www.amazon.jobs/en/jobs/10531259/application-builder-ring-application-services"
+    },
     "10530932": {
       "title": "Software Development Engineer II, FinTech",
       "url": "https://www.amazon.jobs/en/jobs/10530932/software-development-engineer-ii-fintech"
@@ -6426,10 +6430,6 @@
     "10480632": {
       "title": "SDE II, Sales Data Services (SDS)",
       "url": "https://www.amazon.jobs/en/jobs/10480632/sde-ii-sales-data-services-sds"
-    },
-    "10484876": {
-      "title": "Software Development Engineer II , Amazon Cross Border Tech",
-      "url": "https://www.amazon.jobs/en/jobs/10484876/software-development-engineer-ii-amazon-cross-border-tech"
     },
     "10484877": {
       "title": "Software Development Engineer II , Amazon Cross Border Tech",
@@ -28102,6 +28102,30 @@
   "CBRE": {},
   "Microsoft": {},
   "Salesforce": {
+    "/job/Washington---Bellevue/Software-Engineer-SMTS--MTS_JR350647": {
+      "title": "Software Engineer   SMTS",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineer-SMTS--MTS_JR350647"
+    },
+    "/job/United-Kingdom---London/Enterprise-Account-Executive---Qualified_JR357229": {
+      "title": "Enterprise Account Executive - Qualified (Martech)",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Enterprise-Account-Executive---Qualified_JR357229"
+    },
+    "/job/Ireland---Dublin/Qualified-SMB-Account-Executive_JR358921": {
+      "title": "Qualified SMB Account Executive (Martech)",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Qualified-SMB-Account-Executive_JR358921"
+    },
+    "/job/Netherlands---Amsterdam/Enterprise-Account-Executive---Qualified_JR358915-1": {
+      "title": "Enterprise Account Executive - Qualified (Martech)",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Netherlands---Amsterdam/Enterprise-Account-Executive---Qualified_JR358915-1"
+    },
+    "/job/United-Kingdom---London/Commercial-Account-Executive---Qualified_JR358918": {
+      "title": "Commercial Account Executive - Qualified (Martech)",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Commercial-Account-Executive---Qualified_JR358918"
+    },
+    "/job/Germany---Munich/Cloud-Account-Executive-5_JR358917": {
+      "title": "Enterprise Account Executive - Qualified (Martech)",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Germany---Munich/Cloud-Account-Executive-5_JR358917"
+    },
     "/job/Mexico---Mexico-City/Production-Design--Senior-Analyst--Global-Design-Production_JR359041": {
       "title": "Production Design, Senior Analyst, Global Design Production",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Production-Design--Senior-Analyst--Global-Design-Production_JR359041"
@@ -28153,10 +28177,6 @@
     "/job/India---Bangalore/Senior-Director--Solution-Engineer_JR357138": {
       "title": "Senior Director, Solutions Builder",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Director--Solution-Engineer_JR357138"
-    },
-    "/job/Germany---Munich/Cloud-Account-Executive-5_JR358917": {
-      "title": "Cloud Account Executive 5",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Germany---Munich/Cloud-Account-Executive-5_JR358917"
     },
     "/job/India---Hyderabad/Success-Architect-Sales-Cloud_JR321224": {
       "title": "Success Architect",
@@ -28309,10 +28329,6 @@
     "/job/Mexico---Mexico-City/UX-Designer_JR356240": {
       "title": "UX Designer",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/UX-Designer_JR356240"
-    },
-    "/job/Ireland---Dublin/Qualified-SMB-Account-Executive_JR358921": {
-      "title": "Qualified SMB Account Executive",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Qualified-SMB-Account-Executive_JR358921"
     },
     "/job/Ireland---Dublin/Tableau-Account-Executive---French-Speaking_JR346910": {
       "title": "Tableau Account Executive - French Speaking",
@@ -28546,17 +28562,9 @@
       "title": "Agentforce Revenue Management Specialist SE",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Agentforce-Revenue-Management-Specialist-SE_JR357804-1"
     },
-    "/job/Netherlands---Amsterdam/Enterprise-Account-Executive---Qualified_JR358915-1": {
-      "title": "Enterprise Account Executive - Qualified",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Netherlands---Amsterdam/Enterprise-Account-Executive---Qualified_JR358915-1"
-    },
     "/job/Virginia---Mclean/Named-Account-Executive--Federal-Civilian--Social-Security-Administration_JR338533": {
       "title": "Named Account Executive, Federal Civilian: Government Accountability Office",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Virginia---Mclean/Named-Account-Executive--Federal-Civilian--Social-Security-Administration_JR338533"
-    },
-    "/job/United-Kingdom---London/Commercial-Account-Executive---Qualified_JR358918": {
-      "title": "Commercial Account Executive - Qualified",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Commercial-Account-Executive---Qualified_JR358918"
     },
     "/job/Washington---Seattle/Agentforce---Data-360-Support-Engineer_JR336646": {
       "title": "Technical Support Engineer - Agentforce & Data 360",
@@ -28893,10 +28901,6 @@
     "/job/New-Jersey---Remote/Distinguished--Enterprise-Architect_JR348004": {
       "title": "Distinguished, Enterprise Architect",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-Jersey---Remote/Distinguished--Enterprise-Architect_JR348004"
-    },
-    "/job/California---San-Francisco/Production-Support-Engineering-PMTS_JR358540-1": {
-      "title": "Production Support Engineering PMTS",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Production-Support-Engineering-PMTS_JR358540-1"
     },
     "/job/Illinois---Chicago/Sales-Development-Representative_JR347440-1": {
       "title": "Sales Development Representative",
@@ -29798,10 +29802,6 @@
       "title": "Senior Technical Architect, Life Sciences",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas-Metro---Remote/Senior-Technical-Architect--Life-Sciences_JR352828"
     },
-    "/job/United-Kingdom---London/Enterprise-Account-Executive---Qualified_JR357229": {
-      "title": "Enterprise Account Executive - Qualified",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Enterprise-Account-Executive---Qualified_JR357229"
-    },
     "/job/Mexico---Mexico-City/Sports-Marketing-Senior-Lead_JR356664": {
       "title": "Sports Marketing Senior Lead",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Sports-Marketing-Senior-Lead_JR356664"
@@ -30029,10 +30029,6 @@
     "/job/California---San-Francisco/Hyperscaler-Partner-Sales-Sr-Manager_JR356597": {
       "title": "Hyperscaler Partner Sales Sr. Manager",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Hyperscaler-Partner-Sales-Sr-Manager_JR356597"
-    },
-    "/job/Washington---Bellevue/Software-Engineering-SMTS_JR354590": {
-      "title": "Software Engineering SMTS",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineering-SMTS_JR354590"
     },
     "/job/California---San-Francisco/Product-Marketing-Lead---Keynote-Demos_JR357041": {
       "title": "Product Marketing Lead - Keynote Demos",
@@ -36770,6 +36766,10 @@
     }
   },
   "Nutanix": {
+    "https://careers.nutanix.com/en/jobs/32570/systems-reliability-engineer-intern/": {
+      "title": "Systems Reliability Engineer -Intern",
+      "url": "https://careers.nutanix.com/en/jobs/32570/systems-reliability-engineer-intern/"
+    },
     "https://careers.nutanix.com/en/jobs/32554/senior-business-analyst-salesforce/": {
       "title": "Senior Business Analyst (Salesforce)",
       "url": "https://careers.nutanix.com/en/jobs/32554/senior-business-analyst-salesforce/"
