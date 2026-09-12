@@ -4251,10 +4251,6 @@
       "title": "Software Development Engineer, Translation Services",
       "url": "https://www.amazon.jobs/en/jobs/10516133/software-development-engineer-translation-services"
     },
-    "10524602": {
-      "title": "Software Development Engineer, RBKS DSO EU",
-      "url": "https://www.amazon.jobs/en/jobs/10524602/software-development-engineer-rbks-dso-eu"
-    },
     "10512917": {
       "title": "Sr. SDE, AWS Healthcare AI, Amazon Connect Health",
       "url": "https://www.amazon.jobs/en/jobs/10512917/sr-sde-aws-healthcare-ai-amazon-connect-health"
@@ -10630,6 +10626,10 @@
     "3184459": {
       "title": "Sr. Embedded Software Engineer, Antenna System Validation, Amazon Leo",
       "url": "https://www.amazon.jobs/en/jobs/3184459/sr-embedded-software-engineer-antenna-system-validation-amazon-leo"
+    },
+    "3201314": {
+      "title": "Software Dev Engineer, Leo Ground Control Services",
+      "url": "https://www.amazon.jobs/en/jobs/3201314/software-dev-engineer-leo-ground-control-services"
     }
   },
   "Waters Corporation": {
@@ -28110,10 +28110,6 @@
       "title": "Account Executive - Slack",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Austria---Vienna/Account-Executive---Slack_JR359932"
     },
-    "/job/India---Hyderabad/Software-Engineering--MTS-SMTS--Salesforce-Developer-_JR318187-1": {
-      "title": "Salesforce Developer (Software Engineering, MTS/SMTS)",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering--MTS-SMTS--Salesforce-Developer-_JR318187-1"
-    },
     "/job/Australia---Sydney/Forward-Deployed-Engineer----Agentforce-Operations--Regrillo-_JR359868": {
       "title": "Forward Deployed Engineer  - Agentforce Operations (Regrillo)",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Australia---Sydney/Forward-Deployed-Engineer----Agentforce-Operations--Regrillo-_JR359868"
@@ -28425,10 +28421,6 @@
     "/job/California---San-Francisco/Lead-Technical-Writer_JR359539": {
       "title": "Lead Technical Writer",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Lead-Technical-Writer_JR359539"
-    },
-    "/job/India---Bangalore/Senior-Manager--Workplace-F-B_JR359615-1": {
-      "title": "Senior Manager, Workplace F&B",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Manager--Workplace-F-B_JR359615-1"
     },
     "/job/Brazil---Remote/Associate-Technical-Consultant_JR359481-1": {
       "title": "Associate Technical Consultant",
@@ -34948,10 +34940,6 @@
       "title": "Manager - Sales Development, India",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/BDR-Manager---India_R170508"
     },
-    "/job/Noida/Named-Account-Manager_R171476": {
-      "title": "Named Account Manager",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Named-Account-Manager_R171476"
-    },
     "/job/Noida/Computer-Scientist_R171305": {
       "title": "Computer Scientist",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist_R171305"
@@ -40287,13 +40275,13 @@
       "title": "Abuse Investigator",
       "url": "https://stripe.com/jobs/search?gh_jid=8172508"
     },
-    "8172487": {
-      "title": "Abuse Investigator",
-      "url": "https://stripe.com/jobs/search?gh_jid=8172487"
-    },
     "8172510": {
       "title": "Abuse Investigator",
       "url": "https://stripe.com/jobs/search?gh_jid=8172510"
+    },
+    "8172487": {
+      "title": "Abuse Investigator",
+      "url": "https://stripe.com/jobs/search?gh_jid=8172487"
     },
     "8172503": {
       "title": "Abuse Research Engineer",
@@ -40371,17 +40359,13 @@
       "title": "Account Executive, Enterprise Platforms (Grower)",
       "url": "https://stripe.com/jobs/search?gh_jid=7576967"
     },
-    "8077971": {
-      "title": "Account Executive, Enterprise Platforms, Hunter",
-      "url": "https://stripe.com/jobs/search?gh_jid=8077971"
-    },
     "7961609": {
       "title": "Account Executive, Enterprise Platforms, Hunter",
       "url": "https://stripe.com/jobs/search?gh_jid=7961609"
     },
-    "8075473": {
-      "title": "Account Executive, Enterprise Platforms, Tier 2 Grower",
-      "url": "https://stripe.com/jobs/search?gh_jid=8075473"
+    "8077971": {
+      "title": "Account Executive, Enterprise Platforms, Hunter",
+      "url": "https://stripe.com/jobs/search?gh_jid=8077971"
     },
     "8138042": {
       "title": "Account Executive, Enterprise Platforms, Tier 2 Grower",
@@ -40390,6 +40374,10 @@
     "8041894": {
       "title": "Account Executive, Enterprise Platforms, Tier 2 Grower",
       "url": "https://stripe.com/jobs/search?gh_jid=8041894"
+    },
+    "8075473": {
+      "title": "Account Executive, Enterprise Platforms, Tier 2 Grower",
+      "url": "https://stripe.com/jobs/search?gh_jid=8075473"
     },
     "8114155": {
       "title": "Account Executive, Existing Business ",
@@ -40611,13 +40599,13 @@
       "title": "AV Events Manager",
       "url": "https://stripe.com/jobs/search?gh_jid=8078126"
     },
-    "6176758": {
-      "title": "Backend/API Engineer, Money as a Service",
-      "url": "https://stripe.com/jobs/search?gh_jid=6176758"
-    },
     "7369543": {
       "title": "Backend/API Engineer, Money as a Service",
       "url": "https://stripe.com/jobs/search?gh_jid=7369543"
+    },
+    "6176758": {
+      "title": "Backend/API Engineer, Money as a Service",
+      "url": "https://stripe.com/jobs/search?gh_jid=6176758"
     },
     "7217048": {
       "title": "Backend Engineer, Billing/Tax",
@@ -41331,6 +41319,14 @@
       "title": "Implementation Specialist, GTM Accelerate",
       "url": "https://stripe.com/jobs/search?gh_jid=7520686"
     },
+    "8172493": {
+      "title": "Incident Response Manager - Abuse Operations ",
+      "url": "https://stripe.com/jobs/search?gh_jid=8172493"
+    },
+    "8007205": {
+      "title": "Incident Response Manager - Security ",
+      "url": "https://stripe.com/jobs/search?gh_jid=8007205"
+    },
     "8189020": {
       "title": "India Tax Lead - Tax, APAC",
       "url": "https://stripe.com/jobs/search?gh_jid=8189020"
@@ -41427,13 +41423,13 @@
       "title": "Link Social Lead ",
       "url": "https://stripe.com/jobs/search?gh_jid=8187580"
     },
-    "8137997": {
-      "title": "Machine Learning Engineer",
-      "url": "https://stripe.com/jobs/search?gh_jid=8137997"
-    },
     "8014859": {
       "title": "Machine Learning Engineer",
       "url": "https://stripe.com/jobs/search?gh_jid=8014859"
+    },
+    "8137997": {
+      "title": "Machine Learning Engineer",
+      "url": "https://stripe.com/jobs/search?gh_jid=8137997"
     },
     "8069155": {
       "title": "Manager, Administrative Coordinator Program",
@@ -41467,13 +41463,13 @@
       "title": "Manager, Risk Operations Technology Programs",
       "url": "https://stripe.com/jobs/search?gh_jid=8138302"
     },
-    "7896538": {
-      "title": "Manager, Sales Development",
-      "url": "https://stripe.com/jobs/search?gh_jid=7896538"
-    },
     "7337544": {
       "title": "Manager, Sales Development",
       "url": "https://stripe.com/jobs/search?gh_jid=7337544"
+    },
+    "7896538": {
+      "title": "Manager, Sales Development",
+      "url": "https://stripe.com/jobs/search?gh_jid=7896538"
     },
     "8104302": {
       "title": "Manager, Solution Architecture Platforms",
@@ -41491,6 +41487,10 @@
       "title": "Manager, Solutions Architecture - Platforms (Chicago)",
       "url": "https://stripe.com/jobs/search?gh_jid=8175667"
     },
+    "8154304": {
+      "title": "Manager, Technical Account Management",
+      "url": "https://stripe.com/jobs/search?gh_jid=8154304"
+    },
     "8152136": {
       "title": "Manager, Technical Account Management",
       "url": "https://stripe.com/jobs/search?gh_jid=8152136"
@@ -41502,10 +41502,6 @@
     "7767222": {
       "title": "Manager, Technical Account Management",
       "url": "https://stripe.com/jobs/search?gh_jid=7767222"
-    },
-    "8154304": {
-      "title": "Manager, Technical Account Management",
-      "url": "https://stripe.com/jobs/search?gh_jid=8154304"
     },
     "8007738": {
       "title": "Manager, Technical Program Management",
@@ -41567,13 +41563,13 @@
       "title": "Operations Associate, Financial Crimes EDD/PEP",
       "url": "https://stripe.com/jobs/search?gh_jid=7202953"
     },
-    "8011682": {
-      "title": "Operations Associate - Managed Support (Includes Weekend Rotation)",
-      "url": "https://stripe.com/jobs/search?gh_jid=8011682"
-    },
     "8093103": {
       "title": "Operations Associate - Managed Support (Includes Weekend Rotation)",
       "url": "https://stripe.com/jobs/search?gh_jid=8093103"
+    },
+    "8011682": {
+      "title": "Operations Associate - Managed Support (Includes Weekend Rotation)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8011682"
     },
     "7544547": {
       "title": "Operations Associate, New Grad (Mexico)",
@@ -41635,13 +41631,13 @@
       "title": "Partner Development Manager- SaaS Platforms",
       "url": "https://stripe.com/jobs/search?gh_jid=8043055"
     },
-    "7973002": {
-      "title": "Partner Development Manager, Strategic Partnerships",
-      "url": "https://stripe.com/jobs/search?gh_jid=7973002"
-    },
     "8094869": {
       "title": "Partner Development Manager, Strategic Partnerships",
       "url": "https://stripe.com/jobs/search?gh_jid=8094869"
+    },
+    "7973002": {
+      "title": "Partner Development Manager, Strategic Partnerships",
+      "url": "https://stripe.com/jobs/search?gh_jid=7973002"
     },
     "8155164": {
       "title": "Partner Development Manager, Strategic Payment Partnerships",
@@ -41703,13 +41699,13 @@
       "title": "People Partner, Technology",
       "url": "https://stripe.com/jobs/search?gh_jid=7466921"
     },
-    "8173467": {
-      "title": "People Project Manager",
-      "url": "https://stripe.com/jobs/search?gh_jid=8173467"
-    },
     "8039954": {
       "title": "People Project Manager",
       "url": "https://stripe.com/jobs/search?gh_jid=8039954"
+    },
+    "8173467": {
+      "title": "People Project Manager",
+      "url": "https://stripe.com/jobs/search?gh_jid=8173467"
     },
     "8178459": {
       "title": "PMM, Executive Content & Experiences ",
@@ -42163,10 +42159,6 @@
       "title": "Security Incident Response Engineer",
       "url": "https://stripe.com/jobs/search?gh_jid=8142302"
     },
-    "8172493": {
-      "title": "Security Incident Response Manager - Abuse Operations ",
-      "url": "https://stripe.com/jobs/search?gh_jid=8172493"
-    },
     "8172497": {
       "title": "Security Incident Response Manager, Abuse Operations",
       "url": "https://stripe.com/jobs/search?gh_jid=8172497"
@@ -42267,6 +42259,10 @@
       "title": "Software Engineer, Data Orchestration",
       "url": "https://stripe.com/jobs/search?gh_jid=7230670"
     },
+    "8031833": {
+      "title": "Software Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8031833"
+    },
     "8130867": {
       "title": "Software Engineer, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
@@ -42274,10 +42270,6 @@
     "8130883": {
       "title": "Software Engineer, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8130883"
-    },
-    "8031833": {
-      "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8031833"
     },
     "8130807": {
       "title": "Software Engineer, Intern ",
@@ -42291,13 +42283,13 @@
       "title": "Software Engineer, Intern (Summer or Winter)",
       "url": "https://stripe.com/jobs/search?gh_jid=8130805"
     },
-    "8128745": {
-      "title": "Software Engineer, Intern (Summer or Winter)",
-      "url": "https://stripe.com/jobs/search?gh_jid=8128745"
-    },
     "8097801": {
       "title": "Software Engineer, Intern (Summer or Winter)",
       "url": "https://stripe.com/jobs/search?gh_jid=8097801"
+    },
+    "8128745": {
+      "title": "Software Engineer, Intern (Summer or Winter)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8128745"
     },
     "8084476": {
       "title": "Software Engineer, Machine Learning Infrastructure",
@@ -42315,14 +42307,6 @@
       "title": "Software Engineer, New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=8130881"
     },
-    "8128744": {
-      "title": "Software Engineer, New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=8128744"
-    },
-    "8157838": {
-      "title": "Software Engineer, New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=8157838"
-    },
     "8130930": {
       "title": "Software Engineer, New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=8130930"
@@ -42331,9 +42315,17 @@
       "title": "Software Engineer, New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=8130922"
     },
+    "8157838": {
+      "title": "Software Engineer, New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=8157838"
+    },
     "8160776": {
       "title": "Software Engineer, New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=8160776"
+    },
+    "8128744": {
+      "title": "Software Engineer, New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=8128744"
     },
     "8130927": {
       "title": "Software Engineer, New Grad - Frontend",
@@ -42351,13 +42343,13 @@
       "title": "Software Engineer, Payments and Risk",
       "url": "https://stripe.com/jobs/search?gh_jid=6717520"
     },
-    "7761694": {
-      "title": "Software Engineer, Product Security Data Platforms",
-      "url": "https://stripe.com/jobs/search?gh_jid=7761694"
-    },
     "8039800": {
       "title": "Software Engineer, Product Security Data Platforms",
       "url": "https://stripe.com/jobs/search?gh_jid=8039800"
+    },
+    "7761694": {
+      "title": "Software Engineer, Product Security Data Platforms",
+      "url": "https://stripe.com/jobs/search?gh_jid=7761694"
     },
     "7396679": {
       "title": "Software Engineer, Secrets Infrastructure",
@@ -42679,13 +42671,13 @@
       "title": "Support Operations, Privy",
       "url": "https://stripe.com/jobs/search?gh_jid=8162819"
     },
-    "8044158": {
-      "title": "Technical Account Manager",
-      "url": "https://stripe.com/jobs/search?gh_jid=8044158"
-    },
     "8023524": {
       "title": "Technical Account Manager",
       "url": "https://stripe.com/jobs/search?gh_jid=8023524"
+    },
+    "8044158": {
+      "title": "Technical Account Manager",
+      "url": "https://stripe.com/jobs/search?gh_jid=8044158"
     },
     "7918088": {
       "title": "Technical Account Manager, AI User Segment",
@@ -42783,13 +42775,13 @@
       "title": "UK Public Sector Lead",
       "url": "https://stripe.com/jobs/search?gh_jid=8096121"
     },
-    "8159355": {
-      "title": "University Recruiter",
-      "url": "https://stripe.com/jobs/search?gh_jid=8159355"
-    },
     "8128011": {
       "title": "University Recruiter",
       "url": "https://stripe.com/jobs/search?gh_jid=8128011"
+    },
+    "8159355": {
+      "title": "University Recruiter",
+      "url": "https://stripe.com/jobs/search?gh_jid=8159355"
     },
     "8094669": {
       "title": "University Recruiting Manager",
@@ -42802,10 +42794,6 @@
     "8165259": {
       "title": "UX Research Manager, Payments",
       "url": "https://stripe.com/jobs/search?gh_jid=8165259"
-    },
-    "8168552": {
-      "title": "Vice Chair Office, Strategy & Operations",
-      "url": "https://stripe.com/jobs/search?gh_jid=8168552"
     },
     "8168793": {
       "title": "Voice Support Operations Associate ",
