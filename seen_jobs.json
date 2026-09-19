@@ -2987,6 +2987,10 @@
       "title": "Software Development Engineer, Agentic Workspaces",
       "url": "https://www.amazon.jobs/en/jobs/10541943/software-development-engineer-agentic-workspaces"
     },
+    "10554141": {
+      "title": "SDE II, ML Infra Services, Annapurna Labs",
+      "url": "https://www.amazon.jobs/en/jobs/10554141/sde-ii-ml-infra-services-annapurna-labs"
+    },
     "10551850": {
       "title": "Software Development Manager, AMPS Partnership Engineering",
       "url": "https://www.amazon.jobs/en/jobs/10551850/software-development-manager-amps-partnership-engineering"
@@ -10626,10 +10630,6 @@
     "10379272": {
       "title": "Application Builder, Ring Software Product Builders",
       "url": "https://www.amazon.jobs/en/jobs/10379272/application-builder-ring-software-product-builders"
-    },
-    "10445428": {
-      "title": "Software Dev Engineer, Firmware Builder Services",
-      "url": "https://www.amazon.jobs/en/jobs/10445428/software-dev-engineer-firmware-builder-services"
     }
   },
   "Waters Corporation": {
@@ -30877,10 +30877,6 @@
       "title": "Productivity Senior Manager",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Productivity-Senior-Manager_JR356127"
     },
-    "/job/Brazil---Sao-Paulo/Named-Account-Executive_JR356109": {
-      "title": "Named Account Executive",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Sao-Paulo/Named-Account-Executive_JR356109"
-    },
     "/job/Morocco---Casablanca/Account-Executive---MuleSoft---North-Africa--Based-in-Casablanca-_JR330376": {
       "title": "Account Executive,  MuleSoft \u2013 North Africa (Based in Casablanca)",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Morocco---Casablanca/Account-Executive---MuleSoft---North-Africa--Based-in-Casablanca-_JR330376"
@@ -32516,10 +32512,6 @@
     "/job/Philippines---Metro-Manila/Forward-Deployed-Engineer---Philippines_JR349140": {
       "title": "Forward Deployed Engineer - Philippines",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Philippines---Metro-Manila/Forward-Deployed-Engineer---Philippines_JR349140"
-    },
-    "/job/Singapore---Singapore/Senior-Director---Agentic-Builder_JR338170": {
-      "title": "Senior Director - Agentic Builder",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Singapore---Singapore/Senior-Director---Agentic-Builder_JR338170"
     },
     "/job/Korea-Republic-of---Seoul/Account-Executive--Data-Cloud-Specialist_JR349531": {
       "title": "Account Executive, Data Cloud Specialist",
@@ -36279,13 +36271,13 @@
       "title": "Enterprise Account Executive - Auth0",
       "url": "https://www.okta.com/company/careers/opportunity/8059294?gh_jid=8059294"
     },
-    "8007650": {
-      "title": "Enterprise Account Executive, Auth0",
-      "url": "https://www.okta.com/company/careers/opportunity/8007650?gh_jid=8007650"
-    },
     "7904978": {
       "title": "Enterprise Account Executive, Auth0",
       "url": "https://www.okta.com/company/careers/opportunity/7904978?gh_jid=7904978"
+    },
+    "8007650": {
+      "title": "Enterprise Account Executive, Auth0",
+      "url": "https://www.okta.com/company/careers/opportunity/8007650?gh_jid=8007650"
     },
     "7765582": {
       "title": "Enterprise Account Executive, Okta",
@@ -36347,13 +36339,13 @@
       "title": "Head of Marketing APJ",
       "url": "https://www.okta.com/company/careers/opportunity/8001982?gh_jid=8001982"
     },
-    "8209901": {
-      "title": "Head of Marketing APJ (Singapore based)",
-      "url": "https://www.okta.com/company/careers/opportunity/8209901?gh_jid=8209901"
-    },
     "8209902": {
       "title": "Head of Marketing APJ (Singapore based)",
       "url": "https://www.okta.com/company/careers/opportunity/8209902?gh_jid=8209902"
+    },
+    "8209901": {
+      "title": "Head of Marketing APJ (Singapore based)",
+      "url": "https://www.okta.com/company/careers/opportunity/8209901?gh_jid=8209901"
     },
     "8139717": {
       "title": "ISV Ecosystem Growth Manager",
@@ -36371,13 +36363,13 @@
       "title": "Large Enterprise Account Executive Okta",
       "url": "https://www.okta.com/company/careers/opportunity/7941715?gh_jid=7941715"
     },
-    "8124367": {
-      "title": "Manager, Engineering",
-      "url": "https://www.okta.com/company/careers/opportunity/8124367?gh_jid=8124367"
-    },
     "8071500": {
       "title": "Manager, Engineering",
       "url": "https://www.okta.com/company/careers/opportunity/8071500?gh_jid=8071500"
+    },
+    "8124367": {
+      "title": "Manager, Engineering",
+      "url": "https://www.okta.com/company/careers/opportunity/8124367?gh_jid=8124367"
     },
     "8208381": {
       "title": "Manager, Engineering, SecureAI",
@@ -36487,10 +36479,6 @@
       "title": "Principal Site Reliability Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/8002576?gh_jid=8002576"
     },
-    "7741663": {
-      "title": "Principal Software Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/7741663?gh_jid=7741663"
-    },
     "7781674": {
       "title": "Principal Software Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/7781674?gh_jid=7781674"
@@ -36502,6 +36490,10 @@
     "8064188": {
       "title": "Principal Software Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/8064188?gh_jid=8064188"
+    },
+    "7741663": {
+      "title": "Principal Software Engineer",
+      "url": "https://www.okta.com/company/careers/opportunity/7741663?gh_jid=7741663"
     },
     "7849955": {
       "title": "Principal Software Engineer",
@@ -36579,13 +36571,13 @@
       "title": "Regional Sales Manager, SLED",
       "url": "https://www.okta.com/company/careers/opportunity/8189383?gh_jid=8189383"
     },
-    "8102281": {
-      "title": "Sales Development Representative",
-      "url": "https://www.okta.com/company/careers/opportunity/8102281?gh_jid=8102281"
-    },
     "7936541": {
       "title": "Sales Development Representative",
       "url": "https://www.okta.com/company/careers/opportunity/7936541?gh_jid=7936541"
+    },
+    "8102281": {
+      "title": "Sales Development Representative",
+      "url": "https://www.okta.com/company/careers/opportunity/8102281?gh_jid=8102281"
     },
     "7013711": {
       "title": "Sales Development Representative, Bellevue",
@@ -36643,13 +36635,13 @@
       "title": " Senior Data Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/7572029?gh_jid=7572029"
     },
-    "8132163": {
-      "title": "Senior Data Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/8132163?gh_jid=8132163"
-    },
     "7648985": {
       "title": "Senior Data Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/7648985?gh_jid=7648985"
+    },
+    "8132163": {
+      "title": "Senior Data Engineer",
+      "url": "https://www.okta.com/company/careers/opportunity/8132163?gh_jid=8132163"
     },
     "8165103": {
       "title": "Senior Designer, Digital",
@@ -36783,13 +36775,13 @@
       "title": "Senior Product Manager - UI Platform",
       "url": "https://www.okta.com/company/careers/opportunity/8022482?gh_jid=8022482"
     },
-    "7833584": {
-      "title": "Senior Product Marketing Specialist",
-      "url": "https://www.okta.com/company/careers/opportunity/7833584?gh_jid=7833584"
-    },
     "8104905": {
       "title": "Senior Product Marketing Specialist",
       "url": "https://www.okta.com/company/careers/opportunity/8104905?gh_jid=8104905"
+    },
+    "7833584": {
+      "title": "Senior Product Marketing Specialist",
+      "url": "https://www.okta.com/company/careers/opportunity/7833584?gh_jid=7833584"
     },
     "7818862": {
       "title": "Senior Product Marketing Specialist, Global System Integrators (GSI) and Channel",
@@ -36819,17 +36811,13 @@
       "title": "Senior Site Reliability Engineer (FedRAMP)",
       "url": "https://www.okta.com/company/careers/opportunity/7289458?gh_jid=7289458"
     },
-    "7599312": {
-      "title": "Senior Software Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/7599312?gh_jid=7599312"
-    },
-    "8053679": {
-      "title": "Senior Software Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/8053679?gh_jid=8053679"
-    },
     "7783585": {
       "title": "Senior Software Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/7783585?gh_jid=7783585"
+    },
+    "7599312": {
+      "title": "Senior Software Engineer",
+      "url": "https://www.okta.com/company/careers/opportunity/7599312?gh_jid=7599312"
     },
     "8211926": {
       "title": "Senior Software Engineer, Agent Gateway",
@@ -37151,13 +37139,13 @@
       "title": "Staff Security Engineer - Federal",
       "url": "https://www.okta.com/company/careers/opportunity/7571064?gh_jid=7571064"
     },
-    "7840544": {
-      "title": "Staff Site Reliability Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/7840544?gh_jid=7840544"
-    },
     "8184822": {
       "title": "Staff Site Reliability Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/8184822?gh_jid=8184822"
+    },
+    "7840544": {
+      "title": "Staff Site Reliability Engineer",
+      "url": "https://www.okta.com/company/careers/opportunity/7840544?gh_jid=7840544"
     },
     "8090568": {
       "title": "Staff Site Reliability Engineer - Ecosystem",
@@ -37183,6 +37171,10 @@
       "title": "Staff Site Reliability Engineer - Splunk",
       "url": "https://www.okta.com/company/careers/opportunity/7658254?gh_jid=7658254"
     },
+    "7892783": {
+      "title": "Staff Software Engineer",
+      "url": "https://www.okta.com/company/careers/opportunity/7892783?gh_jid=7892783"
+    },
     "8161278": {
       "title": "Staff Software Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/8161278?gh_jid=8161278"
@@ -37191,17 +37183,9 @@
       "title": "Staff Software Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/8034884?gh_jid=8034884"
     },
-    "7892783": {
-      "title": "Staff Software Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/7892783?gh_jid=7892783"
-    },
-    "8018310": {
+    "7893046": {
       "title": "Staff Software Engineer ",
-      "url": "https://www.okta.com/company/careers/opportunity/8018310?gh_jid=8018310"
-    },
-    "8041857": {
-      "title": "Staff Software Engineer ",
-      "url": "https://www.okta.com/company/careers/opportunity/8041857?gh_jid=8041857"
+      "url": "https://www.okta.com/company/careers/opportunity/7893046?gh_jid=7893046"
     },
     "8081016": {
       "title": "Staff Software Engineer ",
@@ -37211,9 +37195,13 @@
       "title": "Staff Software Engineer ",
       "url": "https://www.okta.com/company/careers/opportunity/7626022?gh_jid=7626022"
     },
-    "7893046": {
+    "8041857": {
       "title": "Staff Software Engineer ",
-      "url": "https://www.okta.com/company/careers/opportunity/7893046?gh_jid=7893046"
+      "url": "https://www.okta.com/company/careers/opportunity/8041857?gh_jid=8041857"
+    },
+    "8018310": {
+      "title": "Staff Software Engineer ",
+      "url": "https://www.okta.com/company/careers/opportunity/8018310?gh_jid=8018310"
     },
     "8108855": {
       "title": "Staff Software Engineer, Agent Gateway",
@@ -37259,13 +37247,13 @@
       "title": "Staff Software Engineer (Federal)",
       "url": "https://www.okta.com/company/careers/opportunity/8210784?gh_jid=8210784"
     },
-    "8147071": {
-      "title": "Staff Software Engineer, Identity Administration",
-      "url": "https://www.okta.com/company/careers/opportunity/8147071?gh_jid=8147071"
-    },
     "8147222": {
       "title": "Staff Software Engineer, Identity Administration",
       "url": "https://www.okta.com/company/careers/opportunity/8147222?gh_jid=8147222"
+    },
+    "8147071": {
+      "title": "Staff Software Engineer, Identity Administration",
+      "url": "https://www.okta.com/company/careers/opportunity/8147071?gh_jid=8147071"
     },
     "7831189": {
       "title": "Staff Software Engineer, Identity Administration (Full Stack)",
@@ -37303,13 +37291,13 @@
       "title": "Staff Software Engineer-Salesforce development",
       "url": "https://www.okta.com/company/careers/opportunity/8053763?gh_jid=8053763"
     },
-    "8211380": {
-      "title": "Staff Software Engineer - UI Platform",
-      "url": "https://www.okta.com/company/careers/opportunity/8211380?gh_jid=8211380"
-    },
     "8021682": {
       "title": "Staff Software Engineer - UI Platform",
       "url": "https://www.okta.com/company/careers/opportunity/8021682?gh_jid=8021682"
+    },
+    "8211380": {
+      "title": "Staff Software Engineer - UI Platform",
+      "url": "https://www.okta.com/company/careers/opportunity/8211380?gh_jid=8211380"
     },
     "8007091": {
       "title": "Staff Software Engineer - Windows",
@@ -37413,25 +37401,25 @@
       "title": "Account Executive",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5198260007"
     },
-    "5164593007": {
-      "title": "Account Executive - Commercial",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5164593007"
-    },
     "5156026007": {
       "title": "Account Executive - Commercial",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5156026007"
+    },
+    "5164593007": {
+      "title": "Account Executive - Commercial",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5164593007"
     },
     "5156030007": {
       "title": "Account Executive, Commercial",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5156030007"
     },
-    "5197814007": {
-      "title": "Account Executive, Commercial",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5197814007"
-    },
     "5215890007": {
       "title": "Account Executive, Commercial",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5215890007"
+    },
+    "5197814007": {
+      "title": "Account Executive, Commercial",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5197814007"
     },
     "5236995007": {
       "title": "Account Executive, Commercial - Chicago",
@@ -37465,14 +37453,6 @@
       "title": "Account Executive - Enterprise",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5201253007"
     },
-    "5177913007": {
-      "title": "Account Executive, Enterprise",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5177913007"
-    },
-    "5233183007": {
-      "title": "Account Executive, Enterprise",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5233183007"
-    },
     "5139790007": {
       "title": "Account Executive, Enterprise",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5139790007"
@@ -37480,6 +37460,14 @@
     "5170215007": {
       "title": "Account Executive, Enterprise",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5170215007"
+    },
+    "5177913007": {
+      "title": "Account Executive, Enterprise",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5177913007"
+    },
+    "5233183007": {
+      "title": "Account Executive, Enterprise",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5233183007"
     },
     "5233185007": {
       "title": "Account Executive, Enterprise - AI",
@@ -37593,21 +37581,21 @@
       "title": "Account Executive, Majors - Tennessee ",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5188455007"
     },
-    "5164504007": {
-      "title": "Account Executive, Majors\uff08\u88fd\u9020\u696d\uff09",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5164504007"
-    },
     "5119845007": {
       "title": "Account Executive, Majors\uff08\u88fd\u9020\u696d\uff09",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5119845007"
     },
-    "5202975007": {
-      "title": "Account Executive - Strategic\uff08\u5927\u624b\u9867\u5ba2\u62c5\u5f53\uff09",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5202975007"
+    "5164504007": {
+      "title": "Account Executive, Majors\uff08\u88fd\u9020\u696d\uff09",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5164504007"
     },
     "5156033007": {
       "title": "Account Executive - Strategic\uff08\u5927\u624b\u9867\u5ba2\u62c5\u5f53\uff09",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5156033007"
+    },
+    "5202975007": {
+      "title": "Account Executive - Strategic\uff08\u5927\u624b\u9867\u5ba2\u62c5\u5f53\uff09",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5202975007"
     },
     "5232599007": {
       "title": "Administrative Business Partner",
@@ -37661,13 +37649,13 @@
       "title": "Designated Support Engineer III",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5210017007"
     },
-    "5232603007": {
-      "title": "Designated Support Engineer III",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5232603007"
-    },
     "5210013007": {
       "title": "Designated Support Engineer III",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5210013007"
+    },
+    "5232603007": {
+      "title": "Designated Support Engineer III",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5232603007"
     },
     "5219486007": {
       "title": "Detection Analyst",
@@ -37877,21 +37865,21 @@
       "title": "Principal Production Engineer",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5149607007"
     },
-    "5131237007": {
-      "title": "Principal Product Manager",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5131237007"
-    },
     "5183767007": {
       "title": "Principal Product Manager",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5183767007"
+    },
+    "5236312007": {
+      "title": "Principal Product Manager",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5236312007"
     },
     "5188316007": {
       "title": "Principal Product Manager",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5188316007"
     },
-    "5236312007": {
+    "5131237007": {
       "title": "Principal Product Manager",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5236312007"
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5131237007"
     },
     "5093654007": {
       "title": "Principal Product Manager, Platform Infrastructure and Premium Connectivity Services",
@@ -38113,17 +38101,21 @@
       "title": "Sales Account Executive - SLED or Federal",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5234995007"
     },
-    "5228168007": {
+    "5234214007": {
       "title": "Sales Development Representative",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5228168007"
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5234214007"
     },
     "5195938007": {
       "title": "Sales Development Representative",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5195938007"
     },
-    "5234214007": {
+    "5228168007": {
       "title": "Sales Development Representative",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5234214007"
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5228168007"
+    },
+    "5211684007": {
+      "title": "Sales Engineer",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5211684007"
     },
     "5207292007": {
       "title": "Sales Engineer",
@@ -38132,10 +38124,6 @@
     "5204227007": {
       "title": "Sales Engineer",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5204227007"
-    },
-    "5211684007": {
-      "title": "Sales Engineer",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5211684007"
     },
     "5233191007": {
       "title": "Sales Engineer - Enterprise",
@@ -38329,13 +38317,17 @@
       "title": "Senior Professional Services Consultant - Zero Trust Cloud Specialist",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5210021007"
     },
+    "5225783007": {
+      "title": "Senior Project Manager",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5225783007"
+    },
     "5215324007": {
       "title": "Senior Project Manager",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5215324007"
     },
-    "5225783007": {
-      "title": "Senior Project Manager",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5225783007"
+    "5150481007": {
+      "title": "Senior Sales Engineer",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5150481007"
     },
     "5211130007": {
       "title": "Senior Sales Engineer",
@@ -38344,10 +38336,6 @@
     "5233189007": {
       "title": "Senior Sales Engineer",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5233189007"
-    },
-    "5150481007": {
-      "title": "Senior Sales Engineer",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5150481007"
     },
     "5235465007": {
       "title": "Senior Sales Engineer - Army ",
@@ -38376,10 +38364,6 @@
     "5240656007": {
       "title": "Senior Sales Engineer - Enterprise",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5240656007"
-    },
-    "5204735007": {
-      "title": "Senior Sales Engineer - Enterprise",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5204735007"
     },
     "5082269007": {
       "title": "Senior Sales Engineer - Enterprise, Carolinas",
@@ -38457,21 +38441,21 @@
       "title": "Senior Sales Engineer - Mexico",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5216209007"
     },
-    "5154844007": {
-      "title": "Senior Sales Engineer - Public Sector",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5154844007"
-    },
     "5156082007": {
       "title": "Senior Sales Engineer - Public Sector",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5156082007"
+    },
+    "5170069007": {
+      "title": "Senior Sales Engineer - Public Sector",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5170069007"
     },
     "5150518007": {
       "title": "Senior Sales Engineer - Public Sector",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5150518007"
     },
-    "5170069007": {
+    "5154844007": {
       "title": "Senior Sales Engineer - Public Sector",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5170069007"
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5154844007"
     },
     "5086509007": {
       "title": "Senior Sales Engineer, Public Sector - Germany",
@@ -38537,6 +38521,10 @@
       "title": "Senior Tax Manager",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5108546007"
     },
+    "5195931007": {
+      "title": "Senior Technical Success Manager",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5195931007"
+    },
     "5233052007": {
       "title": "Senior Technical Success Manager",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5233052007"
@@ -38548,10 +38536,6 @@
     "5227670007": {
       "title": "Senior Technical Success Manager",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5227670007"
-    },
-    "5195931007": {
-      "title": "Senior Technical Success Manager",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5195931007"
     },
     "5210027007": {
       "title": "Senior Technical Success Manager-AMS",
@@ -38665,13 +38649,13 @@
       "title": "Sr. Staff Site Reliability Engineer (Linux/Network troubleshooting/Scripting)",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5177391007"
     },
-    "5087815007": {
-      "title": "Sr. Staff Software Development Engineer",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5087815007"
-    },
     "5210725007": {
       "title": "Sr. Staff Software Development Engineer",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5210725007"
+    },
+    "5087815007": {
+      "title": "Sr. Staff Software Development Engineer",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5087815007"
     },
     "5212682007": {
       "title": "Sr. Staff Software Development Engineer",
@@ -38709,13 +38693,13 @@
       "title": "Sr. Staff SWE, Provisioning Platform",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5058382007"
     },
-    "5225789007": {
-      "title": "Sr. Staff Technical Program Manager",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5225789007"
-    },
     "5223327007": {
       "title": "Sr. Staff Technical Program Manager",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5223327007"
+    },
+    "5225789007": {
+      "title": "Sr. Staff Technical Program Manager",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5225789007"
     },
     "5192641007": {
       "title": "Sr. Supply Chain Operations Manager",
@@ -38749,13 +38733,13 @@
       "title": "Staff Production Engineer",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5149609007"
     },
-    "5030576007": {
-      "title": "Staff Site Reliability Engineer",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5030576007"
-    },
     "5130009007": {
       "title": "Staff Site Reliability Engineer",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5130009007"
+    },
+    "5030576007": {
+      "title": "Staff Site Reliability Engineer",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5030576007"
     },
     "5177389007": {
       "title": "Staff Site Reliability Engineer (Linux/Network troubleshooting/Scripting)",
@@ -38765,14 +38749,6 @@
       "title": "Staff Software Applications Engineer",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5196909007"
     },
-    "5209074007": {
-      "title": "Staff Software Development Engineer",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5209074007"
-    },
-    "5087811007": {
-      "title": "Staff Software Development Engineer",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5087811007"
-    },
     "5219185007": {
       "title": "Staff Software Development Engineer",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5219185007"
@@ -38780,6 +38756,14 @@
     "4897017007": {
       "title": "Staff Software Development Engineer",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/4897017007"
+    },
+    "5087811007": {
+      "title": "Staff Software Development Engineer",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5087811007"
+    },
+    "5209074007": {
+      "title": "Staff Software Development Engineer",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5209074007"
     },
     "5204740007": {
       "title": "Staff Software Development Engineer (Backend - Java/API)",
@@ -38837,33 +38821,33 @@
       "title": "Technical Marketing Engineer",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5197243007"
     },
-    "5108046007": {
-      "title": "Technical Success Manager",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5108046007"
-    },
     "5196907007": {
       "title": "Technical Success Manager",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5196907007"
     },
-    "5186928007": {
+    "5108046007": {
       "title": "Technical Success Manager",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5186928007"
-    },
-    "5233054007": {
-      "title": "Technical Success Manager",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5233054007"
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5108046007"
     },
     "5239085007": {
       "title": "Technical Success Manager",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5239085007"
     },
-    "5204095007": {
+    "5233054007": {
       "title": "Technical Success Manager",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5204095007"
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5233054007"
+    },
+    "5186928007": {
+      "title": "Technical Success Manager",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5186928007"
     },
     "5215322007": {
       "title": "Technical Success Manager",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5215322007"
+    },
+    "5204095007": {
+      "title": "Technical Success Manager",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5204095007"
     },
     "5239091007": {
       "title": "Threat Response Engineer (TRE) - Day Shift (10am-6pm MT)",
@@ -38896,13 +38880,13 @@
       "title": "Account Executive 3",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8177722"
     },
-    "7906141": {
-      "title": "Account Executive 4",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/7906141"
-    },
     "8164465": {
       "title": "Account Executive 4",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8164465"
+    },
+    "7906141": {
+      "title": "Account Executive 4",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7906141"
     },
     "8172319": {
       "title": "Business Intelligence Analyst 2",
@@ -39164,13 +39148,13 @@
       "title": "Senior Counsel, Commercial",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8084593"
     },
-    "8141644": {
-      "title": "Senior Data and AI Specialist",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8141644"
-    },
     "8143120": {
       "title": "Senior Data and AI Specialist",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8143120"
+    },
+    "8141644": {
+      "title": "Senior Data and AI Specialist",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8141644"
     },
     "8204351": {
       "title": "Senior Engineering Manager",
@@ -39188,13 +39172,13 @@
       "title": "Senior Engineering Manager, Voice and Video",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8073683"
     },
-    "8067500": {
-      "title": "Senior Engineering Manager V&V Media",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8067500"
-    },
     "8067501": {
       "title": "Senior Engineering Manager V&V Media",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8067501"
+    },
+    "8067500": {
+      "title": "Senior Engineering Manager V&V Media",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8067500"
     },
     "8067678": {
       "title": "Senior Engineering Manager V&V Media",
@@ -39388,13 +39372,13 @@
       "title": "Staff Software Engineer",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8065043"
     },
-    "7944328": {
-      "title": "Staff Software Engineer",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/7944328"
-    },
     "8071710": {
       "title": "Staff Software Engineer",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8071710"
+    },
+    "7944328": {
+      "title": "Staff Software Engineer",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7944328"
     },
     "7716279": {
       "title": "Staff Software Engineer (L4)",
@@ -39412,25 +39396,25 @@
       "title": "Staff, Technical Account Manager",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8172315"
     },
-    "8160532": {
+    "8088055": {
       "title": "Strategic Account Executive",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8160532"
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8088055"
     },
     "8178812": {
       "title": "Strategic Account Executive",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8178812"
     },
-    "7785025": {
+    "8160532": {
       "title": "Strategic Account Executive",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/7785025"
-    },
-    "8088055": {
-      "title": "Strategic Account Executive",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8088055"
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8160532"
     },
     "7972644": {
       "title": "Strategic Account Executive",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7972644"
+    },
+    "7785025": {
+      "title": "Strategic Account Executive",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/7785025"
     },
     "8056267": {
       "title": "Strategic Account Executive 4",
@@ -39452,13 +39436,13 @@
       "title": "Technical Support Engineer",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8208126"
     },
-    "8140436": {
-      "title": "Technical Support Engineer 2",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8140436"
-    },
     "8079708": {
       "title": "Technical Support Engineer 2",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8079708"
+    },
+    "8140436": {
+      "title": "Technical Support Engineer 2",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8140436"
     },
     "8206834": {
       "title": "Technical Support Expert 2",
@@ -39470,13 +39454,13 @@
     }
   },
   "Stripe": {
-    "8172487": {
-      "title": "Abuse Investigator",
-      "url": "https://stripe.com/jobs/search?gh_jid=8172487"
-    },
     "8172510": {
       "title": "Abuse Investigator",
       "url": "https://stripe.com/jobs/search?gh_jid=8172510"
+    },
+    "8172487": {
+      "title": "Abuse Investigator",
+      "url": "https://stripe.com/jobs/search?gh_jid=8172487"
     },
     "8172508": {
       "title": "Abuse Investigator",
@@ -39526,13 +39510,13 @@
       "title": "Account Executive, Enterprise (DACH Market)  ",
       "url": "https://stripe.com/jobs/search?gh_jid=7825578"
     },
-    "7993151": {
-      "title": "Account Executive, Enterprise (Grower) ",
-      "url": "https://stripe.com/jobs/search?gh_jid=7993151"
-    },
     "8107136": {
       "title": "Account Executive, Enterprise (Grower) ",
       "url": "https://stripe.com/jobs/search?gh_jid=8107136"
+    },
+    "7993151": {
+      "title": "Account Executive, Enterprise (Grower) ",
+      "url": "https://stripe.com/jobs/search?gh_jid=7993151"
     },
     "8114458": {
       "title": "Account Executive, Enterprise Grower (Israel)",
@@ -39570,13 +39554,13 @@
       "title": "Account Executive, Enterprise Platforms, Hunter",
       "url": "https://stripe.com/jobs/search?gh_jid=7961609"
     },
-    "8075473": {
-      "title": "Account Executive, Enterprise Platforms, Tier 2 Grower",
-      "url": "https://stripe.com/jobs/search?gh_jid=8075473"
-    },
     "8041894": {
       "title": "Account Executive, Enterprise Platforms, Tier 2 Grower",
       "url": "https://stripe.com/jobs/search?gh_jid=8041894"
+    },
+    "8075473": {
+      "title": "Account Executive, Enterprise Platforms, Tier 2 Grower",
+      "url": "https://stripe.com/jobs/search?gh_jid=8075473"
     },
     "8138042": {
       "title": "Account Executive, Enterprise Platforms, Tier 2 Grower",
@@ -39678,6 +39662,10 @@
       "title": "Account Executive, Product Sales - Billing (Velocity)",
       "url": "https://stripe.com/jobs/search?gh_jid=7958961"
     },
+    "8196275": {
+      "title": "Account Executive, Product Sales - Currency Management",
+      "url": "https://stripe.com/jobs/search?gh_jid=8196275"
+    },
     "8175828": {
       "title": "Account Executive, Product Sales - Currency Management",
       "url": "https://stripe.com/jobs/search?gh_jid=8175828"
@@ -39685,10 +39673,6 @@
     "8190416": {
       "title": "Account Executive, Product Sales - Currency Management",
       "url": "https://stripe.com/jobs/search?gh_jid=8190416"
-    },
-    "8196275": {
-      "title": "Account Executive, Product Sales - Currency Management",
-      "url": "https://stripe.com/jobs/search?gh_jid=8196275"
     },
     "8114738": {
       "title": "Account Executive, Product Sales (Data) ",
@@ -40054,13 +40038,13 @@
       "title": "Customer Success Manager",
       "url": "https://stripe.com/jobs/search?gh_jid=7810205"
     },
-    "8009536": {
-      "title": "Customer Success Manager ",
-      "url": "https://stripe.com/jobs/search?gh_jid=8009536"
-    },
     "8170772": {
       "title": "Customer Success Manager ",
       "url": "https://stripe.com/jobs/search?gh_jid=8170772"
+    },
+    "8009536": {
+      "title": "Customer Success Manager ",
+      "url": "https://stripe.com/jobs/search?gh_jid=8009536"
     },
     "6558993": {
       "title": "Customer Success Manager, Enterprise",
@@ -40146,13 +40130,13 @@
       "title": "Design Engineer, Presence",
       "url": "https://stripe.com/jobs/search?gh_jid=7144975"
     },
-    "7977745": {
-      "title": "Designer, Web Presence & Platform",
-      "url": "https://stripe.com/jobs/search?gh_jid=7977745"
-    },
     "8130913": {
       "title": "Designer, Web Presence & Platform",
       "url": "https://stripe.com/jobs/search?gh_jid=8130913"
+    },
+    "7977745": {
+      "title": "Designer, Web Presence & Platform",
+      "url": "https://stripe.com/jobs/search?gh_jid=7977745"
     },
     "8155390": {
       "title": "Design Program Manager, Research Operations",
@@ -40330,13 +40314,13 @@
       "title": "Food Experience Manager ",
       "url": "https://stripe.com/jobs/search?gh_jid=8083966"
     },
-    "7747640": {
-      "title": "Forward Deployed AI Accelerator, Marketing",
-      "url": "https://stripe.com/jobs/search?gh_jid=7747640"
-    },
     "8055930": {
       "title": "Forward Deployed AI Accelerator, Marketing",
       "url": "https://stripe.com/jobs/search?gh_jid=8055930"
+    },
+    "7747640": {
+      "title": "Forward Deployed AI Accelerator, Marketing",
+      "url": "https://stripe.com/jobs/search?gh_jid=7747640"
     },
     "7230452": {
       "title": "Forward Deployed Engineer, Privy",
@@ -40478,13 +40462,13 @@
       "title": "GTM Strategy & Operations Analyst",
       "url": "https://stripe.com/jobs/search?gh_jid=8195483"
     },
-    "8201680": {
-      "title": "GTM Strategy & Operations Analyst",
-      "url": "https://stripe.com/jobs/search?gh_jid=8201680"
-    },
     "8145119": {
       "title": "GTM Strategy & Operations Analyst",
       "url": "https://stripe.com/jobs/search?gh_jid=8145119"
+    },
+    "8201680": {
+      "title": "GTM Strategy & Operations Analyst",
+      "url": "https://stripe.com/jobs/search?gh_jid=8201680"
     },
     "8128634": {
       "title": "Head of AEO & SEO",
@@ -40590,13 +40574,13 @@
       "title": "Integration Engineer, Metronome ",
       "url": "https://stripe.com/jobs/search?gh_jid=8171222"
     },
-    "8075577": {
-      "title": "Integration Engineer, Professional Services",
-      "url": "https://stripe.com/jobs/search?gh_jid=8075577"
-    },
     "8075570": {
       "title": "Integration Engineer, Professional Services",
       "url": "https://stripe.com/jobs/search?gh_jid=8075570"
+    },
+    "8075577": {
+      "title": "Integration Engineer, Professional Services",
+      "url": "https://stripe.com/jobs/search?gh_jid=8075577"
     },
     "8053417": {
       "title": "Integration Engineer, SEA/GCN",
@@ -40654,13 +40638,13 @@
       "title": "Link Social Lead ",
       "url": "https://stripe.com/jobs/search?gh_jid=8187580"
     },
-    "8137997": {
-      "title": "Machine Learning Engineer",
-      "url": "https://stripe.com/jobs/search?gh_jid=8137997"
-    },
     "8014859": {
       "title": "Machine Learning Engineer",
       "url": "https://stripe.com/jobs/search?gh_jid=8014859"
+    },
+    "8137997": {
+      "title": "Machine Learning Engineer",
+      "url": "https://stripe.com/jobs/search?gh_jid=8137997"
     },
     "8069155": {
       "title": "Manager, Administrative Coordinator Program",
@@ -40670,17 +40654,17 @@
       "title": "Manager, Competitive Programs",
       "url": "https://stripe.com/jobs/search?gh_jid=8175671"
     },
-    "8181022": {
+    "8181034": {
       "title": "Manager, Customer Success Manager",
-      "url": "https://stripe.com/jobs/search?gh_jid=8181022"
+      "url": "https://stripe.com/jobs/search?gh_jid=8181034"
     },
     "8181032": {
       "title": "Manager, Customer Success Manager",
       "url": "https://stripe.com/jobs/search?gh_jid=8181032"
     },
-    "8181034": {
+    "8181022": {
       "title": "Manager, Customer Success Manager",
-      "url": "https://stripe.com/jobs/search?gh_jid=8181034"
+      "url": "https://stripe.com/jobs/search?gh_jid=8181022"
     },
     "8014898": {
       "title": "Manager, Global Sanctions",
@@ -40734,13 +40718,13 @@
       "title": "Manager, Solutions Architecture - Platforms (Chicago)",
       "url": "https://stripe.com/jobs/search?gh_jid=8175667"
     },
-    "7767222": {
-      "title": "Manager, Technical Account Management",
-      "url": "https://stripe.com/jobs/search?gh_jid=7767222"
-    },
     "8154304": {
       "title": "Manager, Technical Account Management",
       "url": "https://stripe.com/jobs/search?gh_jid=8154304"
+    },
+    "7767222": {
+      "title": "Manager, Technical Account Management",
+      "url": "https://stripe.com/jobs/search?gh_jid=7767222"
     },
     "8152136": {
       "title": "Manager, Technical Account Management",
@@ -40882,13 +40866,13 @@
       "title": "Partner Development Manager- Platforms",
       "url": "https://stripe.com/jobs/search?gh_jid=8139202"
     },
-    "8094869": {
-      "title": "Partner Development Manager, Strategic Partnerships",
-      "url": "https://stripe.com/jobs/search?gh_jid=8094869"
-    },
     "7973002": {
       "title": "Partner Development Manager, Strategic Partnerships",
       "url": "https://stripe.com/jobs/search?gh_jid=7973002"
+    },
+    "8094869": {
+      "title": "Partner Development Manager, Strategic Partnerships",
+      "url": "https://stripe.com/jobs/search?gh_jid=8094869"
     },
     "8155164": {
       "title": "Partner Development Manager, Strategic Payment Partnerships",
@@ -41282,6 +41266,10 @@
       "title": "Sales Development Change Management Specialist",
       "url": "https://stripe.com/jobs/search?gh_jid=7953987"
     },
+    "6570253": {
+      "title": "Sales Development Representative",
+      "url": "https://stripe.com/jobs/search?gh_jid=6570253"
+    },
     "8048266": {
       "title": "Sales Development Representative",
       "url": "https://stripe.com/jobs/search?gh_jid=8048266"
@@ -41289,10 +41277,6 @@
     "6470774": {
       "title": "Sales Development Representative",
       "url": "https://stripe.com/jobs/search?gh_jid=6470774"
-    },
-    "6570253": {
-      "title": "Sales Development Representative",
-      "url": "https://stripe.com/jobs/search?gh_jid=6570253"
     },
     "8074892": {
       "title": "Sales Development Representative, AUNZ",
@@ -41410,13 +41394,13 @@
       "title": "Sales Strategy & Operations Analyst ",
       "url": "https://stripe.com/jobs/search?gh_jid=8164674"
     },
-    "8089882": {
-      "title": "Sales Strategy & Operations Business Partner",
-      "url": "https://stripe.com/jobs/search?gh_jid=8089882"
-    },
     "7944515": {
       "title": "Sales Strategy & Operations Business Partner",
       "url": "https://stripe.com/jobs/search?gh_jid=7944515"
+    },
+    "8089882": {
+      "title": "Sales Strategy & Operations Business Partner",
+      "url": "https://stripe.com/jobs/search?gh_jid=8089882"
     },
     "8017084": {
       "title": "Sanctions, Operations Associate(CDMX)",
@@ -41586,13 +41570,13 @@
       "title": "Software Engineer, High Availability and Disaster Recovery",
       "url": "https://stripe.com/jobs/search?gh_jid=8197135"
     },
-    "8130883": {
-      "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130883"
-    },
     "8130867": {
       "title": "Software Engineer, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
+    },
+    "8130883": {
+      "title": "Software Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130883"
     },
     "8031833": {
       "title": "Software Engineer, Intern",
@@ -41606,17 +41590,17 @@
       "title": "Software Engineer, Internal Systems",
       "url": "https://stripe.com/jobs/search?gh_jid=7543868"
     },
-    "8128745": {
+    "8097801": {
       "title": "Software Engineer, Intern (Summer or Winter)",
-      "url": "https://stripe.com/jobs/search?gh_jid=8128745"
+      "url": "https://stripe.com/jobs/search?gh_jid=8097801"
     },
     "8130805": {
       "title": "Software Engineer, Intern (Summer or Winter)",
       "url": "https://stripe.com/jobs/search?gh_jid=8130805"
     },
-    "8097801": {
+    "8128745": {
       "title": "Software Engineer, Intern (Summer or Winter)",
-      "url": "https://stripe.com/jobs/search?gh_jid=8097801"
+      "url": "https://stripe.com/jobs/search?gh_jid=8128745"
     },
     "7737237": {
       "title": "Software Engineer, Metronome Infrastructure",
@@ -41630,25 +41614,25 @@
       "title": "Software Engineer, New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=8130930"
     },
-    "8130922": {
+    "8157838": {
       "title": "Software Engineer, New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130922"
+      "url": "https://stripe.com/jobs/search?gh_jid=8157838"
     },
     "8130881": {
       "title": "Software Engineer, New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=8130881"
     },
-    "8128744": {
-      "title": "Software Engineer, New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=8128744"
-    },
-    "8157838": {
-      "title": "Software Engineer, New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=8157838"
-    },
     "8160776": {
       "title": "Software Engineer, New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=8160776"
+    },
+    "8130922": {
+      "title": "Software Engineer, New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130922"
+    },
+    "8128744": {
+      "title": "Software Engineer, New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=8128744"
     },
     "8130927": {
       "title": "Software Engineer, New Grad - Frontend",
@@ -41998,13 +41982,13 @@
       "title": "Support Operations, Privy",
       "url": "https://stripe.com/jobs/search?gh_jid=8162819"
     },
-    "8044158": {
-      "title": "Technical Account Manager",
-      "url": "https://stripe.com/jobs/search?gh_jid=8044158"
-    },
     "8023524": {
       "title": "Technical Account Manager",
       "url": "https://stripe.com/jobs/search?gh_jid=8023524"
+    },
+    "8044158": {
+      "title": "Technical Account Manager",
+      "url": "https://stripe.com/jobs/search?gh_jid=8044158"
     },
     "7918088": {
       "title": "Technical Account Manager, AI User Segment",
@@ -42050,13 +42034,13 @@
       "title": "Technical Program Manager, Risk",
       "url": "https://stripe.com/jobs/search?gh_jid=7678655"
     },
-    "8142856": {
-      "title": "Technical Recruiter (Fixed Term Contract)",
-      "url": "https://stripe.com/jobs/search?gh_jid=8142856"
-    },
     "8154525": {
       "title": "Technical Recruiter (Fixed Term Contract)",
       "url": "https://stripe.com/jobs/search?gh_jid=8154525"
+    },
+    "8142856": {
+      "title": "Technical Recruiter (Fixed Term Contract)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8142856"
     },
     "7377101": {
       "title": "Technical Solutions Engineer",
@@ -42070,13 +42054,13 @@
       "title": "Technical Support Engineer (EMEA), Metronome",
       "url": "https://stripe.com/jobs/search?gh_jid=7737248"
     },
-    "7860377": {
-      "title": "Technical Support Engineer, Metronome",
-      "url": "https://stripe.com/jobs/search?gh_jid=7860377"
-    },
     "8171220": {
       "title": "Technical Support Engineer, Metronome",
       "url": "https://stripe.com/jobs/search?gh_jid=8171220"
+    },
+    "7860377": {
+      "title": "Technical Support Engineer, Metronome",
+      "url": "https://stripe.com/jobs/search?gh_jid=7860377"
     },
     "7718947": {
       "title": "Tech Operations Associate, New Grad (Mexico)",
@@ -42106,13 +42090,13 @@
       "title": "UK Public Sector Lead",
       "url": "https://stripe.com/jobs/search?gh_jid=8096121"
     },
-    "8128011": {
-      "title": "University Recruiter",
-      "url": "https://stripe.com/jobs/search?gh_jid=8128011"
-    },
     "8159355": {
       "title": "University Recruiter",
       "url": "https://stripe.com/jobs/search?gh_jid=8159355"
+    },
+    "8128011": {
+      "title": "University Recruiter",
+      "url": "https://stripe.com/jobs/search?gh_jid=8128011"
     },
     "8094669": {
       "title": "University Recruiting Manager",
@@ -42742,5 +42726,7 @@
   "Amer Technology, Inc": {},
   "ASCII Group LLC": {},
   "eCom Solutions, Inc.": {},
-  "Airbase": {}
+  "Airbase": {},
+  "VDart Inc": {},
+  "theSeniorDev": {}
 }
