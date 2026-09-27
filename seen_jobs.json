@@ -4791,10 +4791,6 @@
       "title": "Software Development Engineer, Frontier Amazon Dedicated Cloud (ADC)",
       "url": "https://www.amazon.jobs/en/jobs/10535302/software-development-engineer-frontier-amazon-dedicated-cloud-adc"
     },
-    "10537483": {
-      "title": "Software Development Engineer, Shield (Anti-DDoS)",
-      "url": "https://www.amazon.jobs/en/jobs/10537483/software-development-engineer-shield-anti-ddos"
-    },
     "10528085": {
       "title": "Software Dev Engineer, Publisher Ad Server",
       "url": "https://www.amazon.jobs/en/jobs/10528085/software-dev-engineer-publisher-ad-server"
@@ -8523,10 +8519,6 @@
       "title": "Software Development Engineer II, EU INTech - Prime and Marketing Tech",
       "url": "https://www.amazon.jobs/en/jobs/10473128/software-development-engineer-ii-eu-intech-prime-and-marketing-tech"
     },
-    "10464886": {
-      "title": "Applied Scientist III - AMZ27579.1",
-      "url": "https://www.amazon.jobs/en/jobs/10464886/applied-scientist-iii-amz27579-1"
-    },
     "10465025": {
       "title": "Sr. Software Development Engineer, Amazon Optics",
       "url": "https://www.amazon.jobs/en/jobs/10465025/sr-software-development-engineer-amazon-optics"
@@ -9230,10 +9222,6 @@
     "10461588": {
       "title": "Software Dev Engineer II , AWS Intent Driven Networking (AIDN)",
       "url": "https://www.amazon.jobs/en/jobs/10461588/software-dev-engineer-ii-aws-intent-driven-networking-aidn"
-    },
-    "10477117": {
-      "title": "Software Development Engineer, Loss Prevention Tech, WWOS Corporate",
-      "url": "https://www.amazon.jobs/en/jobs/10477117/software-development-engineer-loss-prevention-tech-wwos-corporate"
     },
     "10449376": {
       "title": "Sr. Software Development Engineer, Products and Solutions",
@@ -10630,6 +10618,18 @@
     "10374503": {
       "title": "Software Development Engineer II , Amazon Cross Border Tech",
       "url": "https://www.amazon.jobs/en/jobs/10374503/software-development-engineer-ii-amazon-cross-border-tech"
+    },
+    "10379847": {
+      "title": "Embedded Software Dev Engineer, Amazon Leo Customer Terminal",
+      "url": "https://www.amazon.jobs/en/jobs/10379847/embedded-software-dev-engineer-amazon-leo-customer-terminal"
+    },
+    "10375162": {
+      "title": "Software Development Engineer, Ring",
+      "url": "https://www.amazon.jobs/en/jobs/10375162/software-development-engineer-ring"
+    },
+    "10425605": {
+      "title": "Software Dev Engineer, AWS Hardware Engineering",
+      "url": "https://www.amazon.jobs/en/jobs/10425605/software-dev-engineer-aws-hardware-engineering"
     }
   },
   "Waters Corporation": {
@@ -28364,10 +28364,6 @@
     "/job/France---Paris/AE-Signature-Success_JR360173": {
       "title": "AE Signature Success",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/France---Paris/AE-Signature-Success_JR360173"
-    },
-    "/job/India---Bangalore/Staff-Content-Designer_JR359267": {
-      "title": "Staff Content Designer",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Staff-Content-Designer_JR359267"
     },
     "/job/India---Bangalore/Senior-Manager--Technical-Consulting_JR360341": {
       "title": "Salesforce Senior Architect Manager",
