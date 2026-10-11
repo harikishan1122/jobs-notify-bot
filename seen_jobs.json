@@ -3024,8 +3024,8 @@
       "url": "https://www.amazon.jobs/en/jobs/10568484/embedded-software-engineer-annapurna"
     },
     "10568625": {
-      "title": "Infrastructure Software Engineer, Annapurna Labs",
-      "url": "https://www.amazon.jobs/en/jobs/10568625/infrastructure-software-engineer-annapurna-labs"
+      "title": "Cloud Software Engineer, Annapurna Labs",
+      "url": "https://www.amazon.jobs/en/jobs/10568625/cloud-software-engineer-annapurna-labs"
     },
     "10568469": {
       "title": "Software Dev Engineer II (SDE2), Amazon Connect",
@@ -4983,10 +4983,6 @@
       "title": "Software Development Engineer, Inventory Genealogy",
       "url": "https://www.amazon.jobs/en/jobs/10538987/software-development-engineer-inventory-genealogy"
     },
-    "10568815": {
-      "title": "Software Development Engineer II, FinTech General Ledger",
-      "url": "https://www.amazon.jobs/en/jobs/10568815/software-development-engineer-ii-fintech-general-ledger"
-    },
     "10537470": {
       "title": "Software Dev Engineer Embedded Development",
       "url": "https://www.amazon.jobs/en/jobs/10537470/software-dev-engineer-embedded-development"
@@ -5998,10 +5994,6 @@
     "10553150": {
       "title": "Software Development Engineer II, Compliance and Safety Services, Amazon Stores, Compliance and Safety Services (CoSS), Amazon Stores",
       "url": "https://www.amazon.jobs/en/jobs/10553150/software-development-engineer-ii-compliance-and-safety-services-amazon-stores-compliance-and-safety-services-coss-amazon-stores"
-    },
-    "10541979": {
-      "title": "Software Dev Engineer-II, Infra Supply Chain Automation",
-      "url": "https://www.amazon.jobs/en/jobs/10541979/software-dev-engineer-ii-infra-supply-chain-automation"
     },
     "10534417": {
       "title": "Software Development Engineer, Everyday Essentials Experiences",
@@ -10630,6 +10622,14 @@
     "10383160": {
       "title": "AI Builder, Ring",
       "url": "https://www.amazon.jobs/en/jobs/10383160/ai-builder-ring"
+    },
+    "10385470": {
+      "title": "Senior Software Engineer - SoC DevOps, MLA-MI - Annapurna Labs",
+      "url": "https://www.amazon.jobs/en/jobs/10385470/senior-software-engineer-soc-devops-mla-mi-annapurna-labs"
+    },
+    "10387371": {
+      "title": "Software Development Engineer II - AWS Networking Applications, SIDR",
+      "url": "https://www.amazon.jobs/en/jobs/10387371/software-development-engineer-ii-aws-networking-applications-sidr"
     }
   },
   "Waters Corporation": {
@@ -28341,10 +28341,6 @@
       "title": "Security Architect Lead",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Remote/Security-Architect-Lead_JR360446"
     },
-    "/job/Israel---Tel-Aviv/Mid--Level-Backend-Engineer_JR343717": {
-      "title": "Mid- Level Backend Engineer",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Israel---Tel-Aviv/Mid--Level-Backend-Engineer_JR343717"
-    },
     "/job/India---Bangalore/Business-Development-Representative_JR351752": {
       "title": "Business Development Representative",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Business-Development-Representative_JR351752"
@@ -34826,10 +34822,6 @@
     "/job/San-Jose/Senior-Data-Scientist--GTM-Data-Science_R167834": {
       "title": "Senior Data Scientist, GTM Data Science",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Data-Scientist--GTM-Data-Science_R167834"
-    },
-    "/job/Lehi/Senior-Manager--Business-Process-Optimization-Program-Management_R170677-1": {
-      "title": "Senior Manager, Business Process Optimization Program Management",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Senior-Manager--Business-Process-Optimization-Program-Management_R170677-1"
     },
     "/job/San-Jose/Senior-Product-Manager--AI-Brand-Visibility_R170560": {
       "title": "Senior Product Manager, AI Brand Visibility",
