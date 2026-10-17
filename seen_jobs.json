@@ -7051,10 +7051,6 @@
       "title": "\u8f6f\u4ef6\u5f00\u53d1\u5de5\u7a0b\u5e08, \u4e0a\u6d77, (New graduate or Entry-level Engineer, 0-2 Years)",
       "url": "https://www.amazon.jobs/en/jobs/10510140/new-graduate-or-entry-level-engineer-0-2-years"
     },
-    "10532279": {
-      "title": "Software Development Engineer II",
-      "url": "https://www.amazon.jobs/en/jobs/10532279/software-development-engineer-ii"
-    },
     "10530757": {
       "title": "Principal Software Engineer, Fulfillment by Amazon - IOS",
       "url": "https://www.amazon.jobs/en/jobs/10530757/principal-software-engineer-fulfillment-by-amazon-ios"
@@ -10630,6 +10626,10 @@
     "10382496": {
       "title": "Software Development Engineer, AWS SDE Centralized Team",
       "url": "https://www.amazon.jobs/en/jobs/10382496/software-development-engineer-aws-sde-centralized-team"
+    },
+    "10381629": {
+      "title": "Lead Software Development Engineer, Consumer Domains",
+      "url": "https://www.amazon.jobs/en/jobs/10381629/lead-software-development-engineer-consumer-domains"
     }
   },
   "Waters Corporation": {
@@ -42711,5 +42711,6 @@
   "Smart IT Frame LLC": {},
   "Kaltechsoft": {},
   "Compusoft Integrated Solutions, Inc.": {},
-  "Certitude Business solutions llc": {}
+  "Certitude Business solutions llc": {},
+  "Amatriot Group": {}
 }
