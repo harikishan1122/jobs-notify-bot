@@ -5563,10 +5563,6 @@
       "title": "SDE II, EC2 Instance Networking, EC2 Nitro",
       "url": "https://www.amazon.jobs/en/jobs/10544040/sde-ii-ec2-instance-networking-ec2-nitro"
     },
-    "10544038": {
-      "title": "EC2 Instance Networking SDEII, EC2 Instance Networking",
-      "url": "https://www.amazon.jobs/en/jobs/10544038/ec2-instance-networking-sdeii-ec2-instance-networking"
-    },
     "10583334": {
       "title": "Software Dev Engineer II, 3P AV Measurement ",
       "url": "https://www.amazon.jobs/en/jobs/10583334/software-dev-engineer-ii-3p-av-measurement"
@@ -7806,10 +7802,6 @@
     "10501325": {
       "title": "Software Development Engineer, Agentic Workspace",
       "url": "https://www.amazon.jobs/en/jobs/10501325/software-development-engineer-agentic-workspace"
-    },
-    "10499104": {
-      "title": "Software Development Engineer, Amazon Customer Service",
-      "url": "https://www.amazon.jobs/en/jobs/10499104/software-development-engineer-amazon-customer-service"
     },
     "10497940": {
       "title": "Applied Scientist III - AMZ10362489",
@@ -10630,6 +10622,14 @@
     "3196471": {
       "title": "Software Development Manager, Emerging Devices Software",
       "url": "https://www.amazon.jobs/en/jobs/3196471/software-development-manager-emerging-devices-software"
+    },
+    "3203393": {
+      "title": "Software Development Engineer - Test II, Alexa Endpoint Experiences",
+      "url": "https://www.amazon.jobs/en/jobs/3203393/software-development-engineer-test-ii-alexa-endpoint-experiences"
+    },
+    "10391434": {
+      "title": "Software Dev Engineer, EC2 Nitro",
+      "url": "https://www.amazon.jobs/en/jobs/10391434/software-dev-engineer-ec2-nitro"
     }
   },
   "Waters Corporation": {
@@ -27537,6 +27537,10 @@
   "CBRE": {},
   "Microsoft": {},
   "Salesforce": {
+    "/job/Argentina---Remote/Data-Foundation-Solution-Engineer_JR365218": {
+      "title": "Data Foundation Solution Engineer",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Argentina---Remote/Data-Foundation-Solution-Engineer_JR365218"
+    },
     "/job/India---Hyderabad/Manager-Senior-Manager--Technical-Consulting---Revenue-Cloud-Advanced-RCA-_JR353632": {
       "title": "Manager/Senior Manager, Technical Consulting \u2014 Revenue Cloud Advanced(RCA)",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Manager-Senior-Manager--Technical-Consulting---Revenue-Cloud-Advanced-RCA-_JR353632"
