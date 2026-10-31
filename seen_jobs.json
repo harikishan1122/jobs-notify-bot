@@ -2795,6 +2795,10 @@
       "title": "Senior Technical Account Manager, AWS Enterprise Support",
       "url": "https://www.amazon.jobs/en/jobs/10590984/senior-technical-account-manager-aws-enterprise-support"
     },
+    "10593929": {
+      "title": "Software Development Engineer",
+      "url": "https://www.amazon.jobs/en/jobs/10593929/software-development-engineer"
+    },
     "10591365": {
       "title": "Software Development Engineer, Amazon Leo Live",
       "url": "https://www.amazon.jobs/en/jobs/10591365/software-development-engineer-amazon-leo-live"
@@ -4979,6 +4983,10 @@
       "title": "Software Development Engineer, AWS Transactional Services",
       "url": "https://www.amazon.jobs/en/jobs/10566956/software-development-engineer-aws-transactional-services"
     },
+    "10571093": {
+      "title": "Senior Software Development Engineer, AWS Marketplace Search, AWS Marketplace Search",
+      "url": "https://www.amazon.jobs/en/jobs/10571093/senior-software-development-engineer-aws-marketplace-search-aws-marketplace-search"
+    },
     "10566618": {
       "title": "Manager III, Software Dev - AMZ10519529",
       "url": "https://www.amazon.jobs/en/jobs/10566618/manager-iii-software-dev-amz10519529"
@@ -5331,6 +5339,10 @@
       "title": "Software Development Engineer, Prime Offers Tech ",
       "url": "https://www.amazon.jobs/en/jobs/10565686/software-development-engineer-prime-offers-tech"
     },
+    "10571089": {
+      "title": "Senior Software Development Engineer, AWS APO Engineering",
+      "url": "https://www.amazon.jobs/en/jobs/10571089/senior-software-development-engineer-aws-apo-engineering"
+    },
     "10568453": {
       "title": "Software Development Engineer II, Fulfillment by Amazon (FBA)",
       "url": "https://www.amazon.jobs/en/jobs/10568453/software-development-engineer-ii-fulfillment-by-amazon-fba"
@@ -5490,10 +5502,6 @@
     "10562970": {
       "title": "Senior Software Development Engineer, AWS EC2 Nitro Team",
       "url": "https://www.amazon.jobs/en/jobs/10562970/senior-software-development-engineer-aws-ec2-nitro-team"
-    },
-    "10560849": {
-      "title": "Software Development Engineer, Devices Software & Services",
-      "url": "https://www.amazon.jobs/en/jobs/10560849/software-development-engineer-devices-software-services"
     },
     "10560848": {
       "title": "Software Development Engineer, Devices Software & Services",
@@ -8071,10 +8079,6 @@
       "title": "Software Development Engineer, Ads - Publisher Technology",
       "url": "https://www.amazon.jobs/en/jobs/10506328/software-development-engineer-ads-publisher-technology"
     },
-    "10502935": {
-      "title": "Software Development Engineer II, Rufus Engineering",
-      "url": "https://www.amazon.jobs/en/jobs/10502935/software-development-engineer-ii-rufus-engineering"
-    },
     "10517704": {
       "title": "Senior Software Dev Engineer, Amazon Leo CT SW Team",
       "url": "https://www.amazon.jobs/en/jobs/10517704/senior-software-dev-engineer-amazon-leo-ct-sw-team"
@@ -8734,10 +8738,6 @@
     "10487771": {
       "title": "Software Development Engineer III, AWS Sagemaker Lakehouse Catalog",
       "url": "https://www.amazon.jobs/en/jobs/10487771/software-development-engineer-iii-aws-sagemaker-lakehouse-catalog"
-    },
-    "10485450": {
-      "title": "Software Development Engineer, Ads AI Core Infra (ACI)",
-      "url": "https://www.amazon.jobs/en/jobs/10485450/software-development-engineer-ads-ai-core-infra-aci"
     },
     "10509720": {
       "title": "Software Development Engineer, AWS DynamoDB",
@@ -34953,6 +34953,10 @@
       "title": "Senior Staff Customer Experience Manager",
       "url": "https://careers.nutanix.com/en/jobs/32968/senior-staff-customer-experience-manager/"
     },
+    "https://careers.nutanix.com/en/jobs/32965/principal-product-manager-modern-storage-platform/": {
+      "title": "Principal Product  Manager \u2013 Modern Storage Platform",
+      "url": "https://careers.nutanix.com/en/jobs/32965/principal-product-manager-modern-storage-platform/"
+    },
     "https://careers.nutanix.com/en/jobs/32961/principal-talent-advisor/": {
       "title": "Principal Talent Advisor",
       "url": "https://careers.nutanix.com/en/jobs/32961/principal-talent-advisor/"
@@ -34984,10 +34988,6 @@
     "https://careers.nutanix.com/en/jobs/32948/latam-accounting-payroll-operations-specialist/": {
       "title": "LATAM Accounting & Payroll Operations Specialist",
       "url": "https://careers.nutanix.com/en/jobs/32948/latam-accounting-payroll-operations-specialist/"
-    },
-    "https://careers.nutanix.com/en/jobs/32947/senior-technical-account-manager/": {
-      "title": "Senior Technical Account Manager",
-      "url": "https://careers.nutanix.com/en/jobs/32947/senior-technical-account-manager/"
     }
   },
   "Google": {},
