@@ -2631,6 +2631,10 @@
     }
   },
   "Amazon": {
+    "10605546": {
+      "title": "Chip Validation Software Engineer",
+      "url": "https://www.amazon.jobs/en/jobs/10605546/chip-validation-software-engineer"
+    },
     "10605142": {
       "title": "Software Development Engineer, AWS",
       "url": "https://www.amazon.jobs/en/jobs/10605142/software-development-engineer-aws"
@@ -3974,10 +3978,6 @@
     "10589671": {
       "title": "Software Dev Engineer (Embedded Development), Amazon Devices - Ring & Blink",
       "url": "https://www.amazon.jobs/en/jobs/10589671/software-dev-engineer-embedded-development-amazon-devices-ring-blink"
-    },
-    "10590984": {
-      "title": "Senior Technical Account Manager, AWS Enterprise Support",
-      "url": "https://www.amazon.jobs/en/jobs/10590984/senior-technical-account-manager-aws-enterprise-support"
     },
     "10594182": {
       "title": "Software Dev Engineer II, Amazon India CFX team ",
@@ -7423,10 +7423,6 @@
       "title": "Software Development Engineer",
       "url": "https://www.amazon.jobs/en/jobs/10566605/software-development-engineer"
     },
-    "10536815": {
-      "title": "Software Development Engineer , Amazon Leo",
-      "url": "https://www.amazon.jobs/en/jobs/10536815/software-development-engineer-amazon-leo"
-    },
     "10536911": {
       "title": "Sr. Software Development Engineer, Leo Secure Communications Team",
       "url": "https://www.amazon.jobs/en/jobs/10536911/sr-software-development-engineer-leo-secure-communications-team"
@@ -10630,6 +10626,10 @@
     "10387369": {
       "title": "Sr. Software Development Engineer - AWS Networking Application, SIDR",
       "url": "https://www.amazon.jobs/en/jobs/10387369/sr-software-development-engineer-aws-networking-application-sidr"
+    },
+    "10417304": {
+      "title": "Sr. Software Engineer, EC2 VPC ",
+      "url": "https://www.amazon.jobs/en/jobs/10417304/sr-software-engineer-ec2-vpc"
     }
   },
   "Waters Corporation": {
@@ -27537,6 +27537,14 @@
   "CBRE": {},
   "Microsoft": {},
   "Salesforce": {
+    "/job/India---Bangalore/Business-Development-Representative_JR351732": {
+      "title": "Business Development Representative",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Business-Development-Representative_JR351732"
+    },
+    "/job/India---Bangalore/Technical-Architect--Salesforce-Devops_JR365354": {
+      "title": "Technical Architect- Salesforce Devops",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Technical-Architect--Salesforce-Devops_JR365354"
+    },
     "/job/India---Hyderabad/Systems-Engineering-Associate_JR368441": {
       "title": "Systems Engineering Associate",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Systems-Engineering-Associate_JR368441"
@@ -27761,17 +27769,9 @@
       "title": "Senior Executive Assistant",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Senior-Executive-Assistant_JR367742-1"
     },
-    "/job/India---Bangalore/Technical-Architect--Salesforce-Devops_JR365354": {
-      "title": "Technical Architect- Salesforce Devops",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Technical-Architect--Salesforce-Devops_JR365354"
-    },
     "/job/United-Kingdom---London/Remediation-POD---Technical-Architect_JR363792": {
       "title": "Senior Technical Architect - Remediation POD",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Remediation-POD---Technical-Architect_JR363792"
-    },
-    "/job/India---Hyderabad/Employee-Success-Business-Partner-Senior-Associate_JR366245": {
-      "title": "Lead Employee Success People Consultant",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Employee-Success-Business-Partner-Senior-Associate_JR366245"
     },
     "/job/Ireland---Dublin/ESMB-Senior-Manager---Multiple-languages_JR366415": {
       "title": "ESMB Senior Manager - Multiple Languages",
@@ -28097,18 +28097,6 @@
       "title": "Account Executive - Mid Market",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Germany---Munich/Account-Executive---Mid-Market_JR359883"
     },
-    "/job/India---Hyderabad/Senior-Accountant---Revenue-Accounting_JR367160": {
-      "title": "Senior Accountant - Revenue Accounting",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Accountant---Revenue-Accounting_JR367160"
-    },
-    "/job/India---Hyderabad/Accountant_JR362536": {
-      "title": "Accountant - PO/Accural",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Accountant_JR362536"
-    },
-    "/job/India---Hyderabad/Agentic-People-Service-Lead--Employee-Success-Operations---APAC--Individual-Contributor-_JR364835": {
-      "title": "Agentic People Service Lead, Employee Success Operations - APAC (Individual Contributor)",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Agentic-People-Service-Lead--Employee-Success-Operations---APAC--Individual-Contributor-_JR364835"
-    },
     "/job/India---Hyderabad/Director--Salesforce-Project-Management_JR317907-1": {
       "title": "Director, Salesforce Program Leader",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Director--Salesforce-Project-Management_JR317907-1"
@@ -28148,10 +28136,6 @@
     "/job/Japan---Tokyo/Associate-Market-Researcher--_JR360172": {
       "title": "Associate Market Researcher\u3010\u969c\u5bb3\u8005\u63a1\u7528\u3011",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Associate-Market-Researcher--_JR360172"
-    },
-    "/job/India---Bangalore/Summer-Intern-2027---Content-Writer_JR368157": {
-      "title": "Summer Intern 2027 - Content Writer",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Summer-Intern-2027---Content-Writer_JR368157"
     },
     "/job/Georgia---Atlanta/Senior-Manager--Digital-Marketing---AMER_JR365750": {
       "title": "Digital Marketing Senior Lead",
@@ -28384,10 +28368,6 @@
     "/job/Brazil---Sao-Paulo/Deal-Strat-and-Commercial-Manager_JR367743-1": {
       "title": "Deal Strat and Commercial Manager",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Sao-Paulo/Deal-Strat-and-Commercial-Manager_JR367743-1"
-    },
-    "/job/India---Hyderabad/Data-Engineering-SMTS-LMTS--Revenue-Analytics_JR364686": {
-      "title": "Data Engineering SMTS/LMTS",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Data-Engineering-SMTS-LMTS--Revenue-Analytics_JR364686"
     },
     "/job/Thailand---Bangkok/Prime-Named-Account-Executive--Mulesoft----Public-Sector_JR367549": {
       "title": "Prime Named Account Executive, Mulesoft  - Public Sector",
@@ -29681,10 +29661,6 @@
       "title": "Customer Success Manager, Senior Manager - Core Clouds",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Customer-Success-Manager--Senior-Manager---Core-Clouds_JR366806"
     },
-    "/job/India---Bangalore/Director---Technical-Consulting----Salesforce-Financial-Services-Cloud--_JR343709-1": {
-      "title": "Director - Technical Consulting  ( Financial Services Cloud  /Revenue Cloud / Comms Cloud  / Telecom )",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Director---Technical-Consulting----Salesforce-Financial-Services-Cloud--_JR343709-1"
-    },
     "/job/Canada---Toronto/Account-Executive--Public-Sector_JR362214": {
       "title": "Account Executive \u2013 Public Sector Higher Education",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Account-Executive--Public-Sector_JR362214"
@@ -29824,10 +29800,6 @@
     "/job/United-Kingdom---London/Director--Solution-Consulting---Marketing-Cloud---Data-360_JR364662": {
       "title": "Director, Solution Consulting - Marketing Cloud & Data 360",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Director--Solution-Consulting---Marketing-Cloud---Data-360_JR364662"
-    },
-    "/job/India---Bangalore/RVP---Global-Program-and-Portfolio-Management_JR353282-1": {
-      "title": "RVP , Global Program and Portfolio Management",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/RVP---Global-Program-and-Portfolio-Management_JR353282-1"
     },
     "/job/United-Kingdom---London/Named-Account-Executive---Professional-Services_JR364393": {
       "title": "Named Account Executive - Professional Services",
@@ -32701,10 +32673,6 @@
       "title": "Senior Solution Engineer, Malaysia",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Singapore---Singapore/Senior-Solution-Engineer--Malaysia_JR355022"
     },
-    "/job/Israel---Tel-Aviv/Mid-Level-Senior-Backend-Software-Engineer_JR341307": {
-      "title": "Lead Backend Software Engineer",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Israel---Tel-Aviv/Mid-Level-Senior-Backend-Software-Engineer_JR341307"
-    },
     "/job/New-Jersey---New-York-City-Metro---Remote/Life-Sciences-Product-Liaison-Director--Veeva-Expert-_JR362743": {
       "title": "Life Sciences Product Liaison Director",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-Jersey---New-York-City-Metro---Remote/Life-Sciences-Product-Liaison-Director--Veeva-Expert-_JR362743"
@@ -34099,6 +34067,10 @@
       "title": "Procurement - Technology - Cloud Category Manager",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Procurement---Technology---Cloud-Category-Manager_R166065"
     },
+    "/job/Riyadh/Director--Customer-Value_R173415": {
+      "title": "Director, Customer Value, Middle East",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Riyadh/Director--Customer-Value_R173415"
+    },
     "/job/San-Jose/XMLNAME-2027-University-Graduate---Sales-Development-Representative_R172082": {
       "title": "2027 University Graduate - Sales Development Representative",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Sales-Development-Representative_R172082"
@@ -35071,13 +35043,13 @@
       "title": "Associate Solutions Engineer, Auth0",
       "url": "https://www.okta.com/company/careers/opportunity/8220192?gh_jid=8220192"
     },
-    "8292623": {
-      "title": "Auth0 Account Executive- New Business ",
-      "url": "https://www.okta.com/company/careers/opportunity/8292623?gh_jid=8292623"
-    },
     "8292594": {
       "title": "Auth0 Account Executive- New Business ",
       "url": "https://www.okta.com/company/careers/opportunity/8292594?gh_jid=8292594"
+    },
+    "8292623": {
+      "title": "Auth0 Account Executive- New Business ",
+      "url": "https://www.okta.com/company/careers/opportunity/8292623?gh_jid=8292623"
     },
     "7821640": {
       "title": "Brand Art Director",
@@ -35215,13 +35187,13 @@
       "title": "Engineering Manager, Okta Identity Governance",
       "url": "https://www.okta.com/company/careers/opportunity/8107083?gh_jid=8107083"
     },
-    "8226932": {
-      "title": "Enterprise Account Executive",
-      "url": "https://www.okta.com/company/careers/opportunity/8226932?gh_jid=8226932"
-    },
     "8022189": {
       "title": "Enterprise Account Executive",
       "url": "https://www.okta.com/company/careers/opportunity/8022189?gh_jid=8022189"
+    },
+    "8226932": {
+      "title": "Enterprise Account Executive",
+      "url": "https://www.okta.com/company/careers/opportunity/8226932?gh_jid=8226932"
     },
     "8285002": {
       "title": "Enterprise Account Executive ",
@@ -35235,13 +35207,13 @@
       "title": "Enterprise Account Executive - Auth0",
       "url": "https://www.okta.com/company/careers/opportunity/8059294?gh_jid=8059294"
     },
-    "8288480": {
-      "title": "Enterprise Account Executive, Auth0",
-      "url": "https://www.okta.com/company/careers/opportunity/8288480?gh_jid=8288480"
-    },
     "8248575": {
       "title": "Enterprise Account Executive, Auth0",
       "url": "https://www.okta.com/company/careers/opportunity/8248575?gh_jid=8248575"
+    },
+    "8288480": {
+      "title": "Enterprise Account Executive, Auth0",
+      "url": "https://www.okta.com/company/careers/opportunity/8288480?gh_jid=8288480"
     },
     "8269057": {
       "title": "Enterprise Account Executive, Auth0",
@@ -35431,17 +35403,17 @@
       "title": "Principal Product Manager, Enterprise AI",
       "url": "https://www.okta.com/company/careers/opportunity/8332523?gh_jid=8332523"
     },
-    "7781674": {
+    "7849955": {
       "title": "Principal Software Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/7781674?gh_jid=7781674"
+      "url": "https://www.okta.com/company/careers/opportunity/7849955?gh_jid=7849955"
     },
     "7741663": {
       "title": "Principal Software Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/7741663?gh_jid=7741663"
     },
-    "7849955": {
+    "7781674": {
       "title": "Principal Software Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/7849955?gh_jid=7849955"
+      "url": "https://www.okta.com/company/careers/opportunity/7781674?gh_jid=7781674"
     },
     "8282012": {
       "title": "Principal Software Engineer, Applied AI",
@@ -35499,13 +35471,13 @@
       "title": "Regional Sales Manager, Enterprise Auth0",
       "url": "https://www.okta.com/company/careers/opportunity/8155202?gh_jid=8155202"
     },
-    "8095459": {
-      "title": "Regional Sales Manager - Public Sector",
-      "url": "https://www.okta.com/company/careers/opportunity/8095459?gh_jid=8095459"
-    },
     "8081048": {
       "title": "Regional Sales Manager - Public Sector",
       "url": "https://www.okta.com/company/careers/opportunity/8081048?gh_jid=8081048"
+    },
+    "8095459": {
+      "title": "Regional Sales Manager - Public Sector",
+      "url": "https://www.okta.com/company/careers/opportunity/8095459?gh_jid=8095459"
     },
     "8189383": {
       "title": "Regional Sales Manager, SLED",
@@ -35611,13 +35583,13 @@
       "title": "Senior Director of Paid Media",
       "url": "https://www.okta.com/company/careers/opportunity/8209123?gh_jid=8209123"
     },
-    "8287639": {
-      "title": "Senior Director, R&D Planning & Operations",
-      "url": "https://www.okta.com/company/careers/opportunity/8287639?gh_jid=8287639"
-    },
     "8293675": {
       "title": "Senior Director, R&D Planning & Operations",
       "url": "https://www.okta.com/company/careers/opportunity/8293675?gh_jid=8293675"
+    },
+    "8287639": {
+      "title": "Senior Director, R&D Planning & Operations",
+      "url": "https://www.okta.com/company/careers/opportunity/8287639?gh_jid=8287639"
     },
     "8285012": {
       "title": "Senior Emerging Account Executive ",
@@ -35727,10 +35699,6 @@
       "title": "Senior Product Manager, Okta Customer Identity",
       "url": "https://www.okta.com/company/careers/opportunity/8214073?gh_jid=8214073"
     },
-    "8249918": {
-      "title": "Senior Product Manager, Okta for AI Agents",
-      "url": "https://www.okta.com/company/careers/opportunity/8249918?gh_jid=8249918"
-    },
     "8213755": {
       "title": "Senior Product Manager - Okta Identity Governance",
       "url": "https://www.okta.com/company/careers/opportunity/8213755?gh_jid=8213755"
@@ -35767,13 +35735,13 @@
       "title": "Senior Regional Alliances Manager",
       "url": "https://www.okta.com/company/careers/opportunity/8305257?gh_jid=8305257"
     },
-    "8260950": {
-      "title": "Senior Site Reliability Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950"
-    },
     "8184826": {
       "title": "Senior Site Reliability Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/8184826?gh_jid=8184826"
+    },
+    "8260950": {
+      "title": "Senior Site Reliability Engineer",
+      "url": "https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950"
     },
     "8242984": {
       "title": "Senior Site Reliability Engineer",
@@ -35803,21 +35771,21 @@
       "title": "Senior SMB New Business Account Executive ",
       "url": "https://www.okta.com/company/careers/opportunity/8281740?gh_jid=8281740"
     },
-    "8039085": {
+    "7599312": {
       "title": "Senior Software Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/8039085?gh_jid=8039085"
+      "url": "https://www.okta.com/company/careers/opportunity/7599312?gh_jid=7599312"
     },
     "8237695": {
       "title": "Senior Software Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/8237695?gh_jid=8237695"
     },
-    "7599312": {
-      "title": "Senior Software Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/7599312?gh_jid=7599312"
-    },
     "8345577": {
       "title": "Senior Software Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/8345577?gh_jid=8345577"
+    },
+    "8039085": {
+      "title": "Senior Software Engineer",
+      "url": "https://www.okta.com/company/careers/opportunity/8039085?gh_jid=8039085"
     },
     "8263823": {
       "title": "Senior Software Engineer",
@@ -35907,6 +35875,10 @@
       "title": "Senior Software Engineer, Observability (Auth0)",
       "url": "https://www.okta.com/company/careers/opportunity/8281409?gh_jid=8281409"
     },
+    "8243128": {
+      "title": "Senior Software Engineer, OIG",
+      "url": "https://www.okta.com/company/careers/opportunity/8243128?gh_jid=8243128"
+    },
     "8243981": {
       "title": "Senior Software Engineer, OIG",
       "url": "https://www.okta.com/company/careers/opportunity/8243981?gh_jid=8243981"
@@ -35914,10 +35886,6 @@
     "8264443": {
       "title": "Senior Software Engineer, OIG",
       "url": "https://www.okta.com/company/careers/opportunity/8264443?gh_jid=8264443"
-    },
-    "8243128": {
-      "title": "Senior Software Engineer, OIG",
-      "url": "https://www.okta.com/company/careers/opportunity/8243128?gh_jid=8243128"
     },
     "8186789": {
       "title": "Senior Software Engineer, PAM",
@@ -36031,13 +35999,13 @@
       "title": "Solution Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/6839581?gh_jid=6839581"
     },
-    "8168822": {
-      "title": "Solutions Engineer, Okta",
-      "url": "https://www.okta.com/company/careers/opportunity/8168822?gh_jid=8168822"
-    },
     "7103874": {
       "title": "Solutions Engineer, Okta",
       "url": "https://www.okta.com/company/careers/opportunity/7103874?gh_jid=7103874"
+    },
+    "8168822": {
+      "title": "Solutions Engineer, Okta",
+      "url": "https://www.okta.com/company/careers/opportunity/8168822?gh_jid=8168822"
     },
     "8312752": {
       "title": "Solutions Engineer, Okta (Enterprise West)",
@@ -36067,13 +36035,13 @@
       "title": "Sr. Manager, Marketing Analytics",
       "url": "https://www.okta.com/company/careers/opportunity/8138453?gh_jid=8138453"
     },
-    "8238157": {
-      "title": "Sr. Manager, Strategic Sourcing \u2013 Technology",
-      "url": "https://www.okta.com/company/careers/opportunity/8238157?gh_jid=8238157"
-    },
     "8239845": {
       "title": "Sr. Manager, Strategic Sourcing \u2013 Technology",
       "url": "https://www.okta.com/company/careers/opportunity/8239845?gh_jid=8239845"
+    },
+    "8238157": {
+      "title": "Sr. Manager, Strategic Sourcing \u2013 Technology",
+      "url": "https://www.okta.com/company/careers/opportunity/8238157?gh_jid=8238157"
     },
     "8335959": {
       "title": "Sr. Product Analyst (Xactly)",
@@ -36211,25 +36179,17 @@
       "title": "Staff Site Reliability Engineer, Security- GCP",
       "url": "https://www.okta.com/company/careers/opportunity/6671260?gh_jid=6671260"
     },
-    "7892783": {
-      "title": "Staff Software Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/7892783?gh_jid=7892783"
-    },
-    "8345801": {
-      "title": "Staff Software Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/8345801?gh_jid=8345801"
-    },
     "8263825": {
       "title": "Staff Software Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/8263825?gh_jid=8263825"
     },
+    "7892783": {
+      "title": "Staff Software Engineer",
+      "url": "https://www.okta.com/company/careers/opportunity/7892783?gh_jid=7892783"
+    },
     "8220634": {
       "title": "Staff Software Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/8220634?gh_jid=8220634"
-    },
-    "8236504": {
-      "title": "Staff Software Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/8236504?gh_jid=8236504"
     },
     "8243997": {
       "title": "Staff Software Engineer",
@@ -36243,25 +36203,33 @@
       "title": "Staff Software Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/8243124?gh_jid=8243124"
     },
+    "8345801": {
+      "title": "Staff Software Engineer",
+      "url": "https://www.okta.com/company/careers/opportunity/8345801?gh_jid=8345801"
+    },
+    "8236504": {
+      "title": "Staff Software Engineer",
+      "url": "https://www.okta.com/company/careers/opportunity/8236504?gh_jid=8236504"
+    },
     "8071502": {
       "title": "Staff Software Engineer ",
       "url": "https://www.okta.com/company/careers/opportunity/8071502?gh_jid=8071502"
-    },
-    "8041857": {
-      "title": "Staff Software Engineer ",
-      "url": "https://www.okta.com/company/careers/opportunity/8041857?gh_jid=8041857"
     },
     "7893046": {
       "title": "Staff Software Engineer ",
       "url": "https://www.okta.com/company/careers/opportunity/7893046?gh_jid=7893046"
     },
-    "8220655": {
-      "title": "Staff Software Engineer ",
-      "url": "https://www.okta.com/company/careers/opportunity/8220655?gh_jid=8220655"
-    },
     "8081016": {
       "title": "Staff Software Engineer ",
       "url": "https://www.okta.com/company/careers/opportunity/8081016?gh_jid=8081016"
+    },
+    "8041857": {
+      "title": "Staff Software Engineer ",
+      "url": "https://www.okta.com/company/careers/opportunity/8041857?gh_jid=8041857"
+    },
+    "8220655": {
+      "title": "Staff Software Engineer ",
+      "url": "https://www.okta.com/company/careers/opportunity/8220655?gh_jid=8220655"
     },
     "8242386": {
       "title": "Staff Software Engineer - Advanced Threat Protection",
@@ -36299,10 +36267,6 @@
       "title": "Staff Software Engineer, Delegated Administration (Auth0)",
       "url": "https://www.okta.com/company/careers/opportunity/7560775?gh_jid=7560775"
     },
-    "8242301": {
-      "title": "Staff Software Engineer - Full Stack",
-      "url": "https://www.okta.com/company/careers/opportunity/8242301?gh_jid=8242301"
-    },
     "8203628": {
       "title": "Staff Software Engineer - Full Stack",
       "url": "https://www.okta.com/company/careers/opportunity/8203628?gh_jid=8203628"
@@ -36310,6 +36274,10 @@
     "8236508": {
       "title": "Staff Software Engineer - Full Stack",
       "url": "https://www.okta.com/company/careers/opportunity/8236508?gh_jid=8236508"
+    },
+    "8242301": {
+      "title": "Staff Software Engineer - Full Stack",
+      "url": "https://www.okta.com/company/careers/opportunity/8242301?gh_jid=8242301"
     },
     "7831189": {
       "title": "Staff Software Engineer, Identity Administration (Full Stack)",
@@ -36403,17 +36371,21 @@
       "title": "Staff UX Researcher",
       "url": "https://www.okta.com/company/careers/opportunity/8229326?gh_jid=8229326"
     },
-    "8289602": {
+    "8289589": {
       "title": "Strategic Account Executive",
-      "url": "https://www.okta.com/company/careers/opportunity/8289602?gh_jid=8289602"
+      "url": "https://www.okta.com/company/careers/opportunity/8289589?gh_jid=8289589"
     },
     "8289604": {
       "title": "Strategic Account Executive",
       "url": "https://www.okta.com/company/careers/opportunity/8289604?gh_jid=8289604"
     },
-    "8289589": {
+    "8289602": {
       "title": "Strategic Account Executive",
-      "url": "https://www.okta.com/company/careers/opportunity/8289589?gh_jid=8289589"
+      "url": "https://www.okta.com/company/careers/opportunity/8289602?gh_jid=8289602"
+    },
+    "8054427": {
+      "title": "Strategic Account Executive ",
+      "url": "https://www.okta.com/company/careers/opportunity/8054427?gh_jid=8054427"
     },
     "8289582": {
       "title": "Strategic Account Executive ",
@@ -36423,33 +36395,29 @@
       "title": "Strategic Account Executive ",
       "url": "https://www.okta.com/company/careers/opportunity/8289576?gh_jid=8289576"
     },
-    "8054427": {
-      "title": "Strategic Account Executive ",
-      "url": "https://www.okta.com/company/careers/opportunity/8054427?gh_jid=8054427"
-    },
     "8287817": {
       "title": "Strategic Account Executive ",
       "url": "https://www.okta.com/company/careers/opportunity/8287817?gh_jid=8287817"
-    },
-    "8331195": {
-      "title": "Strategic Account Executive, Auth0",
-      "url": "https://www.okta.com/company/careers/opportunity/8331195?gh_jid=8331195"
-    },
-    "7463779": {
-      "title": "Strategic Account Executive, Auth0",
-      "url": "https://www.okta.com/company/careers/opportunity/7463779?gh_jid=7463779"
     },
     "8289887": {
       "title": "Strategic Account Executive, Auth0",
       "url": "https://www.okta.com/company/careers/opportunity/8289887?gh_jid=8289887"
     },
+    "8289915": {
+      "title": "Strategic Account Executive, Auth0",
+      "url": "https://www.okta.com/company/careers/opportunity/8289915?gh_jid=8289915"
+    },
+    "7463779": {
+      "title": "Strategic Account Executive, Auth0",
+      "url": "https://www.okta.com/company/careers/opportunity/7463779?gh_jid=7463779"
+    },
     "8289910": {
       "title": "Strategic Account Executive, Auth0",
       "url": "https://www.okta.com/company/careers/opportunity/8289910?gh_jid=8289910"
     },
-    "8289915": {
+    "8331195": {
       "title": "Strategic Account Executive, Auth0",
-      "url": "https://www.okta.com/company/careers/opportunity/8289915?gh_jid=8289915"
+      "url": "https://www.okta.com/company/careers/opportunity/8331195?gh_jid=8331195"
     },
     "8288022": {
       "title": "Strategic Account Executive, Auth0 ",
