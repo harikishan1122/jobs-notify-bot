@@ -2631,6 +2631,10 @@
     }
   },
   "Amazon": {
+    "10611003": {
+      "title": "Embedded Software Engineer, EFA Team",
+      "url": "https://www.amazon.jobs/en/jobs/10611003/embedded-software-engineer-efa-team"
+    },
     "10610733": {
       "title": "Embedded SDE II, Hardware Engineering Services",
       "url": "https://www.amazon.jobs/en/jobs/10610733/embedded-sde-ii-hardware-engineering-services"
@@ -4158,6 +4162,10 @@
     "10598064": {
       "title": "Sr Software Development Engineer, Amazon Connect",
       "url": "https://www.amazon.jobs/en/jobs/10598064/sr-software-development-engineer-amazon-connect"
+    },
+    "10607231": {
+      "title": "Software Dev Engineer II - Advertising",
+      "url": "https://www.amazon.jobs/en/jobs/10607231/software-dev-engineer-ii-advertising"
     },
     "10599700": {
       "title": "Software Development Engineer, AWS Direct Connect",
@@ -10622,14 +10630,6 @@
     "10405621": {
       "title": "Senior Software Developer Engineer, AWS Compliance & Security Assurance",
       "url": "https://www.amazon.jobs/en/jobs/10405621/senior-software-developer-engineer-aws-compliance-security-assurance"
-    },
-    "10403403": {
-      "title": "Software Development Engineer II, Amazon",
-      "url": "https://www.amazon.jobs/en/jobs/10403403/software-development-engineer-ii-amazon"
-    },
-    "10433756": {
-      "title": "Software Dev Engineer II, EBS Placement",
-      "url": "https://www.amazon.jobs/en/jobs/10433756/software-dev-engineer-ii-ebs-placement"
     }
   },
   "Waters Corporation": {
@@ -35067,10 +35067,6 @@
       "title": "Business Development Representative -France",
       "url": "https://www.okta.com/company/careers/opportunity/8336721?gh_jid=8336721"
     },
-    "7727730": {
-      "title": "Business Systems Analyst, ServiceNow",
-      "url": "https://www.okta.com/company/careers/opportunity/7727730?gh_jid=7727730"
-    },
     "8293642": {
       "title": "Category Manager (Technology Sourcing) ",
       "url": "https://www.okta.com/company/careers/opportunity/8293642?gh_jid=8293642"
@@ -35083,13 +35079,13 @@
       "title": "Category Manager, Technology Sourcing",
       "url": "https://www.okta.com/company/careers/opportunity/8355883?gh_jid=8355883"
     },
-    "8288466": {
-      "title": "Commercial Account Executive",
-      "url": "https://www.okta.com/company/careers/opportunity/8288466?gh_jid=8288466"
-    },
     "8288348": {
       "title": "Commercial Account Executive",
       "url": "https://www.okta.com/company/careers/opportunity/8288348?gh_jid=8288348"
+    },
+    "8288466": {
+      "title": "Commercial Account Executive",
+      "url": "https://www.okta.com/company/careers/opportunity/8288466?gh_jid=8288466"
     },
     "8289745": {
       "title": "Corporate New Business Account Executive",
@@ -35123,13 +35119,13 @@
       "title": " Director, People Business Partner \u2013 AMER Field Sales",
       "url": "https://www.okta.com/company/careers/opportunity/8406342?gh_jid=8406342"
     },
-    "8282705": {
-      "title": "Director, People Business Partner \u2013 AMER Field Sales",
-      "url": "https://www.okta.com/company/careers/opportunity/8282705?gh_jid=8282705"
-    },
     "8282692": {
       "title": "Director, People Business Partner \u2013 AMER Field Sales",
       "url": "https://www.okta.com/company/careers/opportunity/8282692?gh_jid=8282692"
+    },
+    "8282705": {
+      "title": "Director, People Business Partner \u2013 AMER Field Sales",
+      "url": "https://www.okta.com/company/careers/opportunity/8282705?gh_jid=8282705"
     },
     "7834352": {
       "title": "Director, Product Communications",
@@ -35163,13 +35159,13 @@
       "title": "Employee Relations & Compliance Manager ",
       "url": "https://www.okta.com/company/careers/opportunity/8311034?gh_jid=8311034"
     },
-    "8378013": {
-      "title": "Engineering Manager  ",
-      "url": "https://www.okta.com/company/careers/opportunity/8378013?gh_jid=8378013"
-    },
     "8395428": {
       "title": "Engineering Manager  ",
       "url": "https://www.okta.com/company/careers/opportunity/8395428?gh_jid=8395428"
+    },
+    "8378013": {
+      "title": "Engineering Manager  ",
+      "url": "https://www.okta.com/company/careers/opportunity/8378013?gh_jid=8378013"
     },
     "8237524": {
       "title": "Engineering Manager, Governance Intelligence",
@@ -35299,13 +35295,13 @@
       "title": "Localization Coordinator",
       "url": "https://www.okta.com/company/careers/opportunity/7858260?gh_jid=7858260"
     },
-    "8311998": {
-      "title": "Manager, Customer Identity, Security Engineering",
-      "url": "https://www.okta.com/company/careers/opportunity/8311998?gh_jid=8311998"
-    },
     "8312605": {
       "title": "Manager, Customer Identity, Security Engineering",
       "url": "https://www.okta.com/company/careers/opportunity/8312605?gh_jid=8312605"
+    },
+    "8311998": {
+      "title": "Manager, Customer Identity, Security Engineering",
+      "url": "https://www.okta.com/company/careers/opportunity/8311998?gh_jid=8311998"
     },
     "8124367": {
       "title": "Manager, Engineering",
@@ -35399,13 +35395,13 @@
       "title": "Principal Software Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/7781674?gh_jid=7781674"
     },
-    "7741663": {
-      "title": "Principal Software Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/7741663?gh_jid=7741663"
-    },
     "7849955": {
       "title": "Principal Software Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/7849955?gh_jid=7849955"
+    },
+    "7741663": {
+      "title": "Principal Software Engineer",
+      "url": "https://www.okta.com/company/careers/opportunity/7741663?gh_jid=7741663"
     },
     "8071508": {
       "title": "Principal Software Engineer ",
@@ -35659,13 +35655,13 @@
       "title": "Senior Product Designer - Enterprise Security",
       "url": "https://www.okta.com/company/careers/opportunity/8311018?gh_jid=8311018"
     },
-    "8041551": {
-      "title": "Senior Product Manager - Agentic Security (Auth0)",
-      "url": "https://www.okta.com/company/careers/opportunity/8041551?gh_jid=8041551"
-    },
     "8038929": {
       "title": "Senior Product Manager - Agentic Security (Auth0)",
       "url": "https://www.okta.com/company/careers/opportunity/8038929?gh_jid=8038929"
+    },
+    "8041551": {
+      "title": "Senior Product Manager - Agentic Security (Auth0)",
+      "url": "https://www.okta.com/company/careers/opportunity/8041551?gh_jid=8041551"
     },
     "8351434": {
       "title": "Senior Product Manager, AI Products (Auth0)",
@@ -35723,13 +35719,13 @@
       "title": "Senior Site Reliability Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/7963271?gh_jid=7963271"
     },
-    "8242984": {
-      "title": "Senior Site Reliability Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/8242984?gh_jid=8242984"
-    },
     "8260950": {
       "title": "Senior Site Reliability Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950"
+    },
+    "8242984": {
+      "title": "Senior Site Reliability Engineer",
+      "url": "https://www.okta.com/company/careers/opportunity/8242984?gh_jid=8242984"
     },
     "7418982": {
       "title": "Senior Site Reliability Engineer (Auth0)",
@@ -35771,6 +35767,18 @@
       "title": "Senior Software Development Engineer in Test - Okta Identity Governance",
       "url": "https://www.okta.com/company/careers/opportunity/8396722?gh_jid=8396722"
     },
+    "8263823": {
+      "title": "Senior Software Engineer",
+      "url": "https://www.okta.com/company/careers/opportunity/8263823?gh_jid=8263823"
+    },
+    "8404551": {
+      "title": "Senior Software Engineer",
+      "url": "https://www.okta.com/company/careers/opportunity/8404551?gh_jid=8404551"
+    },
+    "8345577": {
+      "title": "Senior Software Engineer",
+      "url": "https://www.okta.com/company/careers/opportunity/8345577?gh_jid=8345577"
+    },
     "8396761": {
       "title": "Senior Software Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/8396761?gh_jid=8396761"
@@ -35778,18 +35786,6 @@
     "8039085": {
       "title": "Senior Software Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/8039085?gh_jid=8039085"
-    },
-    "8345577": {
-      "title": "Senior Software Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/8345577?gh_jid=8345577"
-    },
-    "8404551": {
-      "title": "Senior Software Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/8404551?gh_jid=8404551"
-    },
-    "8263823": {
-      "title": "Senior Software Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/8263823?gh_jid=8263823"
     },
     "8384032": {
       "title": "Senior Software Engineer ",
@@ -35879,10 +35875,6 @@
       "title": "Senior Software Engineer in Test",
       "url": "https://www.okta.com/company/careers/opportunity/8301847?gh_jid=8301847"
     },
-    "8359861": {
-      "title": "Senior Software Engineer in Test",
-      "url": "https://www.okta.com/company/careers/opportunity/8359861?gh_jid=8359861"
-    },
     "8143141": {
       "title": "Senior Software Engineer in Test",
       "url": "https://www.okta.com/company/careers/opportunity/8143141?gh_jid=8143141"
@@ -35890,6 +35882,10 @@
     "8359838": {
       "title": "Senior Software Engineer in Test",
       "url": "https://www.okta.com/company/careers/opportunity/8359838?gh_jid=8359838"
+    },
+    "8359861": {
+      "title": "Senior Software Engineer in Test",
+      "url": "https://www.okta.com/company/careers/opportunity/8359861?gh_jid=8359861"
     },
     "8287671": {
       "title": "Senior Software Engineer in Test, Android",
@@ -35911,17 +35907,17 @@
       "title": "Senior Software Engineer (NetSuite Developer)",
       "url": "https://www.okta.com/company/careers/opportunity/8154916?gh_jid=8154916"
     },
-    "8243128": {
+    "8264443": {
       "title": "Senior Software Engineer, OIG",
-      "url": "https://www.okta.com/company/careers/opportunity/8243128?gh_jid=8243128"
+      "url": "https://www.okta.com/company/careers/opportunity/8264443?gh_jid=8264443"
     },
     "8243981": {
       "title": "Senior Software Engineer, OIG",
       "url": "https://www.okta.com/company/careers/opportunity/8243981?gh_jid=8243981"
     },
-    "8264443": {
+    "8243128": {
       "title": "Senior Software Engineer, OIG",
-      "url": "https://www.okta.com/company/careers/opportunity/8264443?gh_jid=8264443"
+      "url": "https://www.okta.com/company/careers/opportunity/8243128?gh_jid=8243128"
     },
     "8329646": {
       "title": "Senior Software Engineer, Performance ( Toronto) ",
@@ -36167,17 +36163,17 @@
       "title": "Staff Security Compliance Analyst",
       "url": "https://www.okta.com/company/careers/opportunity/8333434?gh_jid=8333434"
     },
-    "8385706": {
+    "8242975": {
       "title": "Staff Site Reliability Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/8385706?gh_jid=8385706"
+      "url": "https://www.okta.com/company/careers/opportunity/8242975?gh_jid=8242975"
     },
     "8403862": {
       "title": "Staff Site Reliability Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/8403862?gh_jid=8403862"
     },
-    "8242975": {
+    "8385706": {
       "title": "Staff Site Reliability Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/8242975?gh_jid=8242975"
+      "url": "https://www.okta.com/company/careers/opportunity/8385706?gh_jid=8385706"
     },
     "8323977": {
       "title": "Staff Site Reliability Engineer ",
@@ -36203,45 +36199,17 @@
       "title": "Staff Site Reliability Engineer, Security- GCP",
       "url": "https://www.okta.com/company/careers/opportunity/6671260?gh_jid=6671260"
     },
-    "8266577": {
+    "8243158": {
       "title": "Staff Software Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/8266577?gh_jid=8266577"
-    },
-    "7599312": {
-      "title": "Staff Software Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/7599312?gh_jid=7599312"
-    },
-    "8220634": {
-      "title": "Staff Software Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/8220634?gh_jid=8220634"
+      "url": "https://www.okta.com/company/careers/opportunity/8243158?gh_jid=8243158"
     },
     "8243997": {
       "title": "Staff Software Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/8243997?gh_jid=8243997"
     },
-    "8243158": {
+    "7599312": {
       "title": "Staff Software Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/8243158?gh_jid=8243158"
-    },
-    "8161278": {
-      "title": "Staff Software Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/8161278?gh_jid=8161278"
-    },
-    "8243124": {
-      "title": "Staff Software Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/8243124?gh_jid=8243124"
-    },
-    "8345801": {
-      "title": "Staff Software Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/8345801?gh_jid=8345801"
-    },
-    "8263825": {
-      "title": "Staff Software Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/8263825?gh_jid=8263825"
-    },
-    "8385692": {
-      "title": "Staff Software Engineer",
-      "url": "https://www.okta.com/company/careers/opportunity/8385692?gh_jid=8385692"
+      "url": "https://www.okta.com/company/careers/opportunity/7599312?gh_jid=7599312"
     },
     "8384022": {
       "title": "Staff Software Engineer",
@@ -36251,13 +36219,41 @@
       "title": "Staff Software Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/8385710?gh_jid=8385710"
     },
+    "8220634": {
+      "title": "Staff Software Engineer",
+      "url": "https://www.okta.com/company/careers/opportunity/8220634?gh_jid=8220634"
+    },
+    "8243124": {
+      "title": "Staff Software Engineer",
+      "url": "https://www.okta.com/company/careers/opportunity/8243124?gh_jid=8243124"
+    },
+    "8161278": {
+      "title": "Staff Software Engineer",
+      "url": "https://www.okta.com/company/careers/opportunity/8161278?gh_jid=8161278"
+    },
+    "8263825": {
+      "title": "Staff Software Engineer",
+      "url": "https://www.okta.com/company/careers/opportunity/8263825?gh_jid=8263825"
+    },
+    "8345801": {
+      "title": "Staff Software Engineer",
+      "url": "https://www.okta.com/company/careers/opportunity/8345801?gh_jid=8345801"
+    },
+    "8385692": {
+      "title": "Staff Software Engineer",
+      "url": "https://www.okta.com/company/careers/opportunity/8385692?gh_jid=8385692"
+    },
+    "8266577": {
+      "title": "Staff Software Engineer",
+      "url": "https://www.okta.com/company/careers/opportunity/8266577?gh_jid=8266577"
+    },
     "8236504": {
       "title": "Staff Software Engineer",
       "url": "https://www.okta.com/company/careers/opportunity/8236504?gh_jid=8236504"
     },
-    "8359871": {
+    "8071502": {
       "title": "Staff Software Engineer ",
-      "url": "https://www.okta.com/company/careers/opportunity/8359871?gh_jid=8359871"
+      "url": "https://www.okta.com/company/careers/opportunity/8071502?gh_jid=8071502"
     },
     "8081016": {
       "title": "Staff Software Engineer ",
@@ -36267,13 +36263,13 @@
       "title": "Staff Software Engineer ",
       "url": "https://www.okta.com/company/careers/opportunity/8041857?gh_jid=8041857"
     },
+    "8359871": {
+      "title": "Staff Software Engineer ",
+      "url": "https://www.okta.com/company/careers/opportunity/8359871?gh_jid=8359871"
+    },
     "7893046": {
       "title": "Staff Software Engineer ",
       "url": "https://www.okta.com/company/careers/opportunity/7893046?gh_jid=7893046"
-    },
-    "8071502": {
-      "title": "Staff Software Engineer ",
-      "url": "https://www.okta.com/company/careers/opportunity/8071502?gh_jid=8071502"
     },
     "8242386": {
       "title": "Staff Software Engineer - Advanced Threat Protection",
@@ -36311,17 +36307,17 @@
       "title": "Staff Software Engineer, Delegated Administration (Auth0)",
       "url": "https://www.okta.com/company/careers/opportunity/7560775?gh_jid=7560775"
     },
-    "8203628": {
+    "8242301": {
       "title": "Staff Software Engineer - Full Stack",
-      "url": "https://www.okta.com/company/careers/opportunity/8203628?gh_jid=8203628"
+      "url": "https://www.okta.com/company/careers/opportunity/8242301?gh_jid=8242301"
     },
     "8236508": {
       "title": "Staff Software Engineer - Full Stack",
       "url": "https://www.okta.com/company/careers/opportunity/8236508?gh_jid=8236508"
     },
-    "8242301": {
+    "8203628": {
       "title": "Staff Software Engineer - Full Stack",
-      "url": "https://www.okta.com/company/careers/opportunity/8242301?gh_jid=8242301"
+      "url": "https://www.okta.com/company/careers/opportunity/8203628?gh_jid=8203628"
     },
     "7831189": {
       "title": "Staff Software Engineer, Identity Administration (Full Stack)",
@@ -36415,29 +36411,29 @@
       "title": "Staff UX Researcher",
       "url": "https://www.okta.com/company/careers/opportunity/8229326?gh_jid=8229326"
     },
-    "8289589": {
+    "8289602": {
       "title": "Strategic Account Executive",
-      "url": "https://www.okta.com/company/careers/opportunity/8289589?gh_jid=8289589"
+      "url": "https://www.okta.com/company/careers/opportunity/8289602?gh_jid=8289602"
     },
     "8397952": {
       "title": "Strategic Account Executive",
       "url": "https://www.okta.com/company/careers/opportunity/8397952?gh_jid=8397952"
     },
-    "8289602": {
-      "title": "Strategic Account Executive",
-      "url": "https://www.okta.com/company/careers/opportunity/8289602?gh_jid=8289602"
-    },
     "8289604": {
       "title": "Strategic Account Executive",
       "url": "https://www.okta.com/company/careers/opportunity/8289604?gh_jid=8289604"
     },
-    "8289576": {
-      "title": "Strategic Account Executive ",
-      "url": "https://www.okta.com/company/careers/opportunity/8289576?gh_jid=8289576"
+    "8289589": {
+      "title": "Strategic Account Executive",
+      "url": "https://www.okta.com/company/careers/opportunity/8289589?gh_jid=8289589"
     },
     "8287817": {
       "title": "Strategic Account Executive ",
       "url": "https://www.okta.com/company/careers/opportunity/8287817?gh_jid=8287817"
+    },
+    "8289576": {
+      "title": "Strategic Account Executive ",
+      "url": "https://www.okta.com/company/careers/opportunity/8289576?gh_jid=8289576"
     },
     "8054427": {
       "title": "Strategic Account Executive ",
@@ -36447,21 +36443,21 @@
       "title": "Strategic Account Executive ",
       "url": "https://www.okta.com/company/careers/opportunity/8289582?gh_jid=8289582"
     },
-    "7463779": {
-      "title": "Strategic Account Executive, Auth0",
-      "url": "https://www.okta.com/company/careers/opportunity/7463779?gh_jid=7463779"
-    },
     "8331195": {
       "title": "Strategic Account Executive, Auth0",
       "url": "https://www.okta.com/company/careers/opportunity/8331195?gh_jid=8331195"
+    },
+    "8289887": {
+      "title": "Strategic Account Executive, Auth0",
+      "url": "https://www.okta.com/company/careers/opportunity/8289887?gh_jid=8289887"
     },
     "8289910": {
       "title": "Strategic Account Executive, Auth0",
       "url": "https://www.okta.com/company/careers/opportunity/8289910?gh_jid=8289910"
     },
-    "8289887": {
+    "7463779": {
       "title": "Strategic Account Executive, Auth0",
-      "url": "https://www.okta.com/company/careers/opportunity/8289887?gh_jid=8289887"
+      "url": "https://www.okta.com/company/careers/opportunity/7463779?gh_jid=7463779"
     },
     "8288022": {
       "title": "Strategic Account Executive, Auth0 ",
@@ -36487,13 +36483,13 @@
       "title": "Tax Senior Analyst, Foreign Compliance and Reporting",
       "url": "https://www.okta.com/company/careers/opportunity/8079016?gh_jid=8079016"
     },
-    "8397964": {
-      "title": "Technical Enablement Business Partner",
-      "url": "https://www.okta.com/company/careers/opportunity/8397964?gh_jid=8397964"
-    },
     "8401378": {
       "title": "Technical Enablement Business Partner",
       "url": "https://www.okta.com/company/careers/opportunity/8401378?gh_jid=8401378"
+    },
+    "8397964": {
+      "title": "Technical Enablement Business Partner",
+      "url": "https://www.okta.com/company/careers/opportunity/8397964?gh_jid=8397964"
     },
     "8328599": {
       "title": "Technical Platform Administrator, Enablement Systems",
