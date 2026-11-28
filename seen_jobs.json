@@ -2647,6 +2647,10 @@
       "title": "2027 Software Dev Engineer Internship, AWS EC2",
       "url": "https://www.amazon.jobs/en/jobs/10615428/2027-software-dev-engineer-internship-aws-ec2"
     },
+    "10615117": {
+      "title": "Senior Software Development Engineer, Amazon Customer Service ",
+      "url": "https://www.amazon.jobs/en/jobs/10615117/senior-software-development-engineer-amazon-customer-service"
+    },
     "10614480": {
       "title": "Software Development Engineer, Amazon Quick",
       "url": "https://www.amazon.jobs/en/jobs/10614480/software-development-engineer-amazon-quick"
@@ -3731,10 +3735,6 @@
       "title": "Senior Software Engineer, Interfaces and Contracts, Amazon LEO, D2D Software",
       "url": "https://www.amazon.jobs/en/jobs/10602872/senior-software-engineer-interfaces-and-contracts-amazon-leo-d2d-software"
     },
-    "10607408": {
-      "title": "Senior Software Development Engineer, Specialist AI Tooling, AWS Specialist Technology Team (STT)",
-      "url": "https://www.amazon.jobs/en/jobs/10607408/senior-software-development-engineer-specialist-ai-tooling-aws-specialist-technology-team-stt"
-    },
     "10610161": {
       "title": "Software Development Engineer II, Holmes (Specialist Tech Engineering) , AWS Holmes, Specialist Tech Engineering",
       "url": "https://www.amazon.jobs/en/jobs/10610161/software-development-engineer-ii-holmes-specialist-tech-engineering-aws-holmes-specialist-tech-engineering"
@@ -4210,10 +4210,6 @@
     "10601926": {
       "title": "Software Development Engineer, Global Tax Services - Data",
       "url": "https://www.amazon.jobs/en/jobs/10601926/software-development-engineer-global-tax-services-data"
-    },
-    "10598816": {
-      "title": "Senior Software Engineer, AI & Strategic Partner Engineering",
-      "url": "https://www.amazon.jobs/en/jobs/10598816/senior-software-engineer-ai-strategic-partner-engineering"
     },
     "10603759": {
       "title": "Software Development Engineer II, EC2 Core Platform",
@@ -4878,10 +4874,6 @@
     "10592713": {
       "title": "Software Development Engineer, ElastiCache",
       "url": "https://www.amazon.jobs/en/jobs/10592713/software-development-engineer-elasticache"
-    },
-    "10597835": {
-      "title": "Software Development Engineer, Kinesis Data Streams",
-      "url": "https://www.amazon.jobs/en/jobs/10597835/software-development-engineer-kinesis-data-streams"
     },
     "10592719": {
       "title": "Software Dev Engineer II, Checkout Platform",
@@ -5738,10 +5730,6 @@
     "10585995": {
       "title": "Software Development Engineer II, Prime Benefits",
       "url": "https://www.amazon.jobs/en/jobs/10585995/software-development-engineer-ii-prime-benefits"
-    },
-    "10585996": {
-      "title": "Software Development Engineer II, Prime Benefits",
-      "url": "https://www.amazon.jobs/en/jobs/10585996/software-development-engineer-ii-prime-benefits"
     },
     "10586756": {
       "title": "Software Development Engineer, Leo Autopilot",
@@ -8911,10 +8899,6 @@
       "title": "Senior Software Development Engineer, AI Acceleration, Amazon Games",
       "url": "https://www.amazon.jobs/en/jobs/10525077/senior-software-development-engineer-ai-acceleration-amazon-games"
     },
-    "10510686": {
-      "title": "Software Development Engineer, Ordering",
-      "url": "https://www.amazon.jobs/en/jobs/10510686/software-development-engineer-ordering"
-    },
     "10525157": {
       "title": "Software Development Engineer, AWS Vulnerability Management",
       "url": "https://www.amazon.jobs/en/jobs/10525157/software-development-engineer-aws-vulnerability-management"
@@ -10243,10 +10227,6 @@
       "title": "Tech Lead Eng, AWS , ElastiCache",
       "url": "https://www.amazon.jobs/en/jobs/10444995/tech-lead-eng-aws-elasticache"
     },
-    "10450854": {
-      "title": "Sr. Software Dev Engineer, Leo AI Foundations",
-      "url": "https://www.amazon.jobs/en/jobs/10450854/sr-software-dev-engineer-leo-ai-foundations"
-    },
     "10450706": {
       "title": "Software Development Engineer, Prime Air",
       "url": "https://www.amazon.jobs/en/jobs/10450706/software-development-engineer-prime-air"
@@ -10630,6 +10610,26 @@
     "10416198": {
       "title": "Software Development Engineer, AWS Transactional Services",
       "url": "https://www.amazon.jobs/en/jobs/10416198/software-development-engineer-aws-transactional-services"
+    },
+    "10427349": {
+      "title": "Software Development Engineer, Leo AI Foundations",
+      "url": "https://www.amazon.jobs/en/jobs/10427349/software-development-engineer-leo-ai-foundations"
+    },
+    "10412948": {
+      "title": "Software Dev Engineer, Prime Video Personalization & Discovery",
+      "url": "https://www.amazon.jobs/en/jobs/10412948/software-dev-engineer-prime-video-personalization-discovery"
+    },
+    "10414316": {
+      "title": "Software Development Engineer, AWS Data Services - 2026 (US)",
+      "url": "https://www.amazon.jobs/en/jobs/10414316/software-development-engineer-aws-data-services-2026-us"
+    },
+    "10419446": {
+      "title": "Sr. Software Dev Engineer, Leo AI Foundations",
+      "url": "https://www.amazon.jobs/en/jobs/10419446/sr-software-dev-engineer-leo-ai-foundations"
+    },
+    "10412935": {
+      "title": "Software Engineer II, AWS DynamoDB",
+      "url": "https://www.amazon.jobs/en/jobs/10412935/software-engineer-ii-aws-dynamodb"
     }
   },
   "Waters Corporation": {
